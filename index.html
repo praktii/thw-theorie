@@ -1108,11 +1108,21 @@
 					$('#pdf-save-questions,#pdf-save-answers').removeClass('ui-disabled');
 				},
 				generate : function(action, type) {
+					var date = new Date();
+					var dateAsText = date.toTimeString();
 					var pdfFile = pdf.printQuestionSheet(ui.pdf.questions, type == 'answers');
 					if(action == 'save')
-						pdfFile.save(type == 'answers' ? 'Lösungen.pdf' : 'Fragen.pdf');
+						pdfFile.save(type == 'answers' ? 'Lösungen_'+dateConverter()+'.pdf' : 'Fragen_'+dateConverter()+'.pdf');
 					else
 						pdfFile.output('dataurlnewwindow');
+				},
+				dateConverter : funtion () {
+					var curDate = new Date();
+					var day = curDate.getDate();  
+					var month = curDate.getMonth()+1;
+					var year = curDate.getFullYear();
+					var res = year+""+month+""+day;
+					return res;
 				},
 			}
 		}
