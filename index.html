@@ -508,12 +508,14 @@
 				
 				return { height: height, text: text, lines: lines };
 			}
+			
 			this.printQuestionSheet = function(qList, answers) {
 				this.pdf = new jsPDF('p', 'mm', 'a4');
 				this.lastFont = {fontSize: 0, fontStyle: false, fontName: false};
 				
 				var page = 0;
 				var yStart;
+				this.text(nameLine.x, nameLine.y, nameLine.text, nameLine.font);
 				for(var i in qList) {
 					this.setFont({});
 					var l = this._layoutQuestion(qList[i], answers);
