@@ -529,6 +529,13 @@
 								this.layout.pagesPos.text.replace(/\[\[PAGE\]\]/g, page),
 								typeof(this.layout.pagesPos.font) !== 'undefined' ? this.layout.pagesPos.font : {}
 							);
+						if(this.layout.nameLine)
+							this.text(
+								this.layout.nameLine.x,
+								this.layout.nameLine.y,
+								this.layout.text,
+								typeof(this.layout.nameLine.font) !== 'undefined' ? this.layout.nameLine.font : {}
+							);
 						yStart = this.layout.border.top;
 						for(var i in this.layout.header.lines) {
 							if(typeof(this.layout.header.lines[i].color) === 'undefined')
