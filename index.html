@@ -332,6 +332,7 @@
 				textOffsetFactor : .775,
 				pagesPos : { x: 185, y: 284, text: "[[PAGE]] / [[PAGES]]", font : {} },
 				nameLine: {x: 20, y: 15, text: "Name: ___________________________________________________", font: {} },
+				pdfDate: {x: 20, y: 284, text: "Bogen vom [[DATE]]", font : {} },
 				header : {
 					height : 8,
 					lines : [
@@ -510,6 +511,12 @@
 			}
 			
 			this.printQuestionSheet = function(qList, answers) {
+				var curDate = new Date();
+				var day = curDate.getDate();  
+				var month = curDate.getMonth()+1;
+				var year = curDate.getFullYear();
+				var dateString = day+"."+month+"."+year;
+				
 				this.pdf = new jsPDF('p', 'mm', 'a4');
 				this.lastFont = {fontSize: 0, fontStyle: false, fontName: false};
 				
@@ -535,6 +542,13 @@
 								this.layout.nameLine.y,
 								this.layout.nameLine.text,
 								typeof(this.layout.nameLine.font) !== 'undefined' ? this.layout.nameLine.font : {}
+							);
+						if(this.layout.pdfDate)
+							this.text(
+								this.layout.pdfDate.x,
+								this.layout.pdfDate.y,
+								this.layout.pdfDate.text.replace(/\[\[DATE\]\/g, dateString),
+								typeof(this.layout.pdfDate.font) !== 'undefined' ? this.layout.pdfDate.font : {}
 							);
 						yStart = this.layout.border.top;
 						for(var i in this.layout.header.lines) {
