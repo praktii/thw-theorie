@@ -547,7 +547,7 @@
 							this.text(
 								this.layout.pdfDate.x,
 								this.layout.pdfDate.y,
-								this.layout.pdfDate.text.replace(/\[\[DATE\]\/g, dateString),
+								this.layout.pdfDate.text.replace(/\[\[DATE\]\]/g, dateString),
 								typeof(this.layout.pdfDate.font) !== 'undefined' ? this.layout.pdfDate.font : {}
 							);
 						yStart = this.layout.border.top;
