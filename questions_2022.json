@@ -1,0 +1,3694 @@
+{
+    "category": {
+        "1": {
+            "name": "Das THW im Gef\u00FCge des Zivil- und Katastrophenschutzes"
+        },
+        "10": {
+            "name": "Grundlagen der Rettung und Bergung"
+        },
+        "2": {
+            "name": "Arbeitssicherheit und Gesundheitsschutz"
+        },
+        "3": {
+            "name": "Arbeiten mit Leinen, Drahtseilen, Ketten, Rund- und Bandschlingen"
+        },
+        "4": {
+            "name": "Arbeiten mit Leitern"
+        },
+        "5": {
+            "name": "Stromerzeugung und Beleuchtung"
+        },
+        "6": {
+            "name": "Metall-, Holz- und Steinbearbeitung"
+        },
+        "7": {
+            "name": "Bewegen von Lasten"
+        },
+        "8": {
+            "name": "Arbeiten am und auf dem Wasser"
+        },
+        "9": {
+            "name": "Einsatzgrundlagen"
+        }
+    },
+    "questions": [
+        {
+            "answers": {
+                "1": "Grundgesetz",
+                "2": "Zivilschutz- und Katastrophenhilfegesetz (ZSKG)",
+                "3": "THW-Gesetz"
+            },
+            "category": 1,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 1,
+            "question": "Welches Gesetz regelt die Mitwirkung der Bundesanstalt THW im erweiterten Katastrophenschutz?"
+        },
+        {
+            "answers": {
+                "1": "1949",
+                "2": "1950",
+                "3": "1956"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 2,
+            "question": "Wann wurde das THW gegr\u00FCndet?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Bundesminister/in des Innern und f\u00FCr Heimat",
+                "2": "Der/die Pr\u00E4sident/in",
+                "3": "Der/die Landesbeauftragte"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 3,
+            "question": "Wer steht an der Spitze der Bundesanstalt Technisches Hilfswerk?"
+        },
+        {
+            "answers": {
+                "1": "Das Bundesministerium des Innern und f\u00FCr Heimat",
+                "2": "Bundesministerium der Verteidigung",
+                "3": "Bundesministerium f\u00FCr Bildung und Forschung"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 4,
+            "question": "Welchem Bundesministerium ist die Bundesanstalt THW unterstellt?"
+        },
+        {
+            "answers": {
+                "1": "11",
+                "2": "8",
+                "3": "16"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 5,
+            "question": "In wie viele Landesverb\u00E4nde ist die Bundesanstalt THW gegliedert?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Landessprecher/in",
+                "2": "Der Landesausschuss",
+                "3": "Der/die Landesbeauftragte"
+            },
+            "category": 1,
+            "correct": [
+                3
+            ],
+            "number": 6,
+            "question": "Wer leitet Ihren Landesverband?"
+        },
+        {
+            "answers": {
+                "1": "Der Leiter/die Leiterin der Regionalstelle",
+                "2": "Der/die Ortsbeauftragte",
+                "3": "Der/die Zugf\u00FChrer/in"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 7,
+            "question": "Wer leitet den Ortsverband?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Ortsbeauftragte",
+                "2": "Der/die Helfersprecher/in",
+                "3": "Der/die Sicherheitsbeauftragte"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 8,
+            "question": "Wer von den genannten Funktionstr\u00E4ger/innen ist Mitglied im Ortsausschuss?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Beauftragte f\u00FCr \u00D6ffentlichkeitsarbeit",
+                "2": "Der/die Verwaltungsbeauftragte",
+                "3": "Der/die Helfersprecher/in"
+            },
+            "category": 1,
+            "correct": [
+                3
+            ],
+            "number": 9,
+            "question": "Wer vertritt die Interessen der Helferschaft gegen\u00FCber dem/der Ortsbeauftragten?"
+        },
+        {
+            "answers": {
+                "1": "Ortsverband, Landesverband und Leitung",
+                "2": "Ausbildungszentrum und Standort",
+                "3": "Grund-, Fach- und Weiterbef\u00E4higung"
+            },
+            "category": 1,
+            "correct": [
+                3
+            ],
+            "number": 10,
+            "question": "Welche Aus- und Fortbildungsstufen gibt es im THW?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Ortsbeauftragte",
+                "2": "Der Leiter/die Leiterin der Regionalstelle",
+                "3": "Der/die B\u00FCrgermeister/in"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 11,
+            "question": "Wer entscheidet \u00FCber den Aufnahmeantrag zur Mitwirkung in der Bundesanstalt THW?"
+        },
+        {
+            "answers": {
+                "1": "Regelm\u00E4\u00DFige Teilnahme an Dienstveranstaltungen",
+                "2": "Teilnahme an Ausbildungsma\u00DFnahmen",
+                "3": "Teilnahme an \u00DCbungen und Eins\u00E4tzen"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 12,
+            "question": "Welche Pflichten entstehen f\u00FCr Sie durch die Mitwirkung im THW als Helfer/in?"
+        },
+        {
+            "answers": {
+                "1": "Grundgesetz",
+                "2": "THW-Gesetz",
+                "3": "THW-Mitwirkungsrichtlinie"
+            },
+            "category": 1,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 13,
+            "question": "Wo sind die Pflichten und Rechte des Helfers/der Helferin festgelegt?"
+        },
+        {
+            "answers": {
+                "1": "Ermahnung",
+                "2": "Keine Ma\u00DFnahmen",
+                "3": "Entlassung"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 14,
+            "question": "Mit welchen Ma\u00DFnahmen m\u00FCssen Sie rechnen, wenn Sie gegen Dienstpflichten im THW versto\u00DFen?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Ortsbeauftragte",
+                "2": "Der/die Schirrmeister/in",
+                "3": "Der/die Zugf\u00FChrer/in"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 15,
+            "question": "Wer von den nachstehend genannten Funktionstr\u00E4ger/innen ist ehrenamtliche F\u00FChrungskraft?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Zugf\u00FChrer/in",
+                "2": "Der/die Gruppenf\u00FChrer/in",
+                "3": "Der/die Truppf\u00FChrer/in"
+            },
+            "category": 1,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 16,
+            "question": "Wer von den genannten Funktionstr\u00E4ger/innen ist Unterf\u00FChrer/in?"
+        },
+        {
+            "answers": {
+                "1": "Jeden Wohnungswechsel anzuzeigen",
+                "2": "Telefonische Erreichbarkeiten (privat und beruflich) anzuzeigen",
+                "3": "Nicht in Urlaub zu fahren"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 17,
+            "question": "Wozu sind Sie verpflichtet, um Ihre Erreichbarkeit zu gew\u00E4hrleisten?"
+        },
+        {
+            "answers": {
+                "1": "Der/die zust\u00E4ndige Leiter/in der Regionalstelle",
+                "2": "Die Katastrophenschutzbeh\u00F6rde",
+                "3": "Der/die Ortsbeauftragte"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 18,
+            "question": "Wer ist f\u00FCr den Katastrophenschutz an Ihrem Standort (Kreis, kreisfreie Stadt) verantwortlich?"
+        },
+        {
+            "answers": {
+                "1": "Blau, Orange, Bronze, Silber, Gold",
+                "2": "1, 2, 3, 4, 5",
+                "3": "Schwarz, Rot, Gold, Blau, Wei\u00DF"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 19,
+            "question": "Welche Stufen des Leistungsabzeichens der THW-Jugend gibt es?"
+        },
+        {
+            "answers": {
+                "1": "Sanit\u00E4tsz\u00FCge",
+                "2": "Bergungsz\u00FCge",
+                "3": "Technische Z\u00FCge"
+            },
+            "category": 1,
+            "correct": [
+                3
+            ],
+            "number": 20,
+            "question": "Welche Einheiten werden vom THW gestellt?"
+        },
+        {
+            "answers": {
+                "1": "Der Technische Zug",
+                "2": "Die Fachgruppe",
+                "3": "Der Regionalbereich"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 21,
+            "question": "Welches sind taktische (Teil-) Einheiten im THW?"
+        },
+        {
+            "answers": {
+                "1": "Ausschlie\u00DFlich die Feuerwehren",
+                "2": "Alle",
+                "3": "Ausschlie\u00DFlich ausgebildete Helfer/innen"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 22,
+            "question": "Wer ist zu allgemeinen Hilfeleistungen verpflichtet?"
+        },
+        {
+            "answers": {
+                "1": "Ja",
+                "2": "Nein",
+                "3": "Ja, in geringerem Umfang"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 23,
+            "question": "D\u00FCrfen einem Helfer/einer Helferin aufgrund seiner/ihrer Mitwirkung im THW berufliche Nachteile entstehen?"
+        },
+        {
+            "answers": {
+                "1": "Nein, es besteht Versicherungsschutz \u00FCber seine/ihre Krankenkasse",
+                "2": "Ja, \u00FCber das Sozialgesetzbuch VII (SGB VII)",
+                "3": "Nein, er/sie muss zus\u00E4tzlich eine private Versicherung abschlie\u00DFen"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 24,
+            "question": "Besteht f\u00FCr eine/n Helfer/in w\u00E4hrend des Dienstes eine gesetzliche Unfallversicherung?"
+        },
+        {
+            "answers": {
+                "1": "Bau und Instandsetzung von Freileitungen",
+                "2": "Rettung Versch\u00FCtteter",
+                "3": "Abst\u00FCtzen einsturzgef\u00E4hrdeter Geb\u00E4ude"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 25,
+            "question": "Welche der nebenstehenden Aufgaben nimmt das THW wahr?"
+        },
+        {
+            "answers": {
+                "1": "Betreuung",
+                "2": "Trinkwasserversorgung",
+                "3": "R\u00E4umen"
+            },
+            "category": 1,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 26,
+            "question": "Welche Fachgruppen gibt es im THW?"
+        },
+        {
+            "answers": {
+                "1": "Ortsjugendbeauftragte/r",
+                "2": "Ortsbeauftragte/r",
+                "3": "Ausbildungsbeauftragte/r"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 27,
+            "question": "Wer leitet die Jugendgruppen im Ortsverband?"
+        },
+        {
+            "answers": {
+                "1": "St\u00E4ndige Ausstattungsnachweisung",
+                "2": "St\u00E4rke- und Ausstattungsnachweisung",
+                "3": "Standard-Ausstattungsnachweisung"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 28,
+            "question": "Wof\u00FCr steht die Abk\u00FCrzung StAN?"
+        },
+        {
+            "answers": {
+                "1": "OB, stv. OB, Helfersprecher/in",
+                "2": "OB, stv. OB, ZF\u00FC",
+                "3": "OV-Koch/K\u00F6chin, OJB, VwBe"
+            },
+            "category": 1,
+            "correct": [
+                3
+            ],
+            "number": 29,
+            "question": "Wer geh\u00F6rt u. a. dem OV-Stab an?"
+        },
+        {
+            "answers": {
+                "1": "Er/sie kann warten, bis er ihm/ihr zugeschickt wird",
+                "2": "Er/sie muss sich selbst informieren",
+                "3": "Es gibt keinen festen Dienstplan"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 30,
+            "question": "Wie hat sich ein/e Helfer/in \u00FCber den Dienstplan zu informieren?"
+        },
+        {
+            "answers": {
+                "1": "Zugtrupp",
+                "2": "Bergungsgruppe",
+                "3": "Fachgruppe Sprengen"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 31,
+            "question": "Zu welcher (Teil-) Einheit geh\u00F6rt der GKW?"
+        },
+        {
+            "answers": {
+                "1": "Durch Eintrag ins Dienstbuch",
+                "2": "Durch Eintrag in die Personalakte",
+                "3": "Durch elektronische Erfassung"
+            },
+            "category": 1,
+            "correct": [
+                3
+            ],
+            "number": 32,
+            "question": "Wie wird die Anwesenheit des Helfers/der Helferin bei Dienstveranstaltungen in der Regel erfasst?"
+        },
+        {
+            "answers": {
+                "1": "Zugtrupp",
+                "2": "Bergungsgruppe",
+                "3": "Fachgruppe Wassergefahren"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 33,
+            "question": "Zu welcher (Teil-) Einheit des Technischen Zuges geh\u00F6rt der MTW?"
+        },
+        {
+            "answers": {
+                "1": "Werkzeugsatz Sprengvorbereitung",
+                "2": "Brennschneidger\u00E4t",
+                "3": "Benzinhandpumpe"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 34,
+            "question": "Welche Ger\u00E4te des Technischen Zuges befinden sich auf dem GKW?"
+        },
+        {
+            "answers": {
+                "1": "Betrieb von Notbrunnen",
+                "2": "Instandsetzen von Anlagen/Anlagenteilen in der Hausinstallation inkl. Hausanschluss",
+                "3": "Absperrma\u00DFnahmen bei Ver- und Entsorgungsanlagen auf der Ebene Hausanschluss"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 35,
+            "question": "Welche der nebenstehenden Aufgaben werden von der Fachgruppe Infrastruktur wahrgenommen?"
+        },
+        {
+            "answers": {
+                "1": "Zugf\u00FChrung und andere F\u00FChrungsaufgaben",
+                "2": "Verkehrskontrolle durchf\u00FChren",
+                "3": "Lotsenstellen einrichten"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 36,
+            "question": "Welche Aufgaben haben die  Zugtrupps?"
+        },
+        {
+            "answers": {
+                "1": "Bereichsausbildung",
+                "2": "Auslandsausbildung",
+                "3": "F\u00FChrungsausbildung"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 37,
+            "question": "Was sind Bestandteile der THW-Fachbef\u00E4higung?"
+        },
+        {
+            "answers": {
+                "1": "Wassergefahren",
+                "2": "Infrastruktur",
+                "3": "Ortung"
+            },
+            "category": 1,
+            "correct": [
+                3
+            ],
+            "number": 38,
+            "question": "In welchen Fachgruppen gibt es Rettungshunde?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Helfer/in hat keine Sonderrechte",
+                "2": "Es gilt die Stra\u00DFenverkehrsordnung",
+                "3": "Hupe und Warnblinkanlage bet\u00E4tigen"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 39,
+            "question": "Was muss der/die Helfer/in bei der Anfahrt zur Unterkunft beachten?"
+        },
+        {
+            "answers": {
+                "1": "R\u00E4umen",
+                "2": "Elektroversorgung",
+                "3": "Wassergefahren"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 40,
+            "question": "In welcher Fachgruppe gibt es Baumaschinen?"
+        },
+        {
+            "answers": {
+                "1": "Fachgruppe Ortung",
+                "2": "Fachgruppe Wassergefahren",
+                "3": "Bergungsgruppe"
+            },
+            "category": 1,
+            "correct": [
+                3
+            ],
+            "number": 41,
+            "question": "Welche (Teil-) Einheiten des Technischen Zuges sind mit Umluft unabh\u00E4ngigen Atemschutzger\u00E4ten ausgestattet?"
+        },
+        {
+            "answers": {
+                "1": "Arbeitgeber/in",
+                "2": "Einwohnermeldeamt",
+                "3": "Arbeitsagentur bzw. Jobcenter der Stadt/des Kreises im Falle einer Arbeitslosigkeit"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 42,
+            "question": "Wem muss ich als Helfer/in meine Mitwirkung im THW mitteilen?"
+        },
+        {
+            "answers": {
+                "1": "F\u00F6rderung der THW-Jugend",
+                "2": "Unterst\u00FCtzung bei der Beschaffung fehlender Ger\u00E4tschaften",
+                "3": "F\u00F6rderung der Kameradschaft"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 43,
+            "question": "Welche Aufgaben kann eine \u00F6rtliche THW-Helfervereinigung haben?"
+        },
+        {
+            "answers": {
+                "1": "Eingetragene Genossenschaft (e. G.)",
+                "2": "Eingetragener Verein (e. V.)",
+                "3": "Keine, weil sie ein Teil der BA THW sind"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 44,
+            "question": "Welche Rechtsform kann eine THW-Helfervereinigungen haben?"
+        },
+        {
+            "answers": {
+                "1": "\u00D6rtliche THW-Helfervereine",
+                "2": "Landesvereinigungen",
+                "3": "Bundesvereinigung"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 45,
+            "question": "Welche Organisationsebenen der THW-Helfervereine gibt es?"
+        },
+        {
+            "answers": {
+                "1": "Ab dem 16. Geburtstag",
+                "2": "Ab dem 18. Geburtstag",
+                "3": "Mit Eintritt in die Minigruppe"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 46,
+            "question": "Ab wann kann ein/e Junghelfer/in fr\u00FChestens die Grundausbildungspr\u00FCfung ablegen?"
+        },
+        {
+            "answers": {
+                "1": "Bestandene Grundausbildungspr\u00FCfung, g\u00FCltige Erste-Hilfe-Ausbildung",
+                "2": "Mitf\u00FChren eines g\u00FCltigen Impfpasses, Bescheinigung der Einsatzbereitschaft durch den/die Leiter/in der Regionalstelle",
+                "3": "Gesundheitliche, Eingangsuntersuchung, g\u00FCltiger Impfstatus"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 47,
+            "question": "Was sind die Voraussetzungen, um an einem Einsatz teilnehmen zu k\u00F6nnen?"
+        },
+        {
+            "answers": {
+                "1": "Mit ihrem Aufgabenspektrum, ihrer Einsatztaktik, ihrer Ausstattung und ihrem Gliederungsbild",
+                "2": "Mit ihren Aufgaben, ihrer Einsatzkleidung und ihrem Verpflegungsbedarf",
+                "3": "Mit ihrer Einsatztaktik, ihrer Funktions- und Helfer/innen\u00FCbersicht und den Funktionsbeschreibungen"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 48,
+            "question": "Womit ist jede Einheit bzw. Teileinheit in der StAN beschrieben?"
+        },
+        {
+            "answers": {
+                "1": "Anzahl der Helfer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der F\u00FChrer/innen; Gesamtzahl der Helfer/innen in der Einheit",
+                "2": "Anzahl der F\u00FChrer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Gesamtzahl der Helfer/innen der Einheit",
+                "3": "Gesamtzahl der Helfer/innen der Einheit; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Anzahl der F\u00FChrer/innen"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 49,
+            "question": "Wie lautet die richtige Reihenfolge der Bedeutung der St\u00E4rkemeldung (1/1/2=4)"
+        },
+        {
+            "answers": {
+                "1": "Sich entsprechend Eignung und Aufgabe ausbilden zu lassen",
+                "2": "Dienstlichen Vorschriften und Anweisungen  nachzukommen",
+                "3": "Sich \u00FCber die ma\u00DFgeblichen Diensttermine zu informieren"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 50,
+            "question": "Welche Pflichten haben Helferinnen und Helfer im THW?"
+        },
+        {
+            "answers": {
+                "1": "6 Jahre",
+                "2": "10 Jahre",
+                "3": "18 Jahre"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 51,
+            "question": "Ab weil viel Jahren k\u00F6nnen Kinder und Jugendliche als Junghelfer/in im THW mitwirken?"
+        },
+        {
+            "answers": {
+                "1": "Die St\u00E4dte, kreisfreien St\u00E4dte und Gemeinden",
+                "2": "Ausschlie\u00DFlich die Bundesl\u00E4nder",
+                "3": "Der Bund"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 52,
+            "question": "Wer ist f\u00FCr die allt\u00E4gliche Gefahrenabwehr zust\u00E4ndig?"
+        },
+        {
+            "answers": {
+                "1": "Sachg\u00FCter",
+                "2": "Menschenleben",
+                "3": "Umwelt"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 53,
+            "question": "Aufgaben im Falle eines au\u00DFergew\u00F6hnlichen Schadensereignisses"
+        },
+        {
+            "answers": {
+                "1": "Ausschlie\u00DFlich die Bundesregierung",
+                "2": "Organisationen des Katastrophenschutzes \u2013 auch das THW ist berechtigt",
+                "3": "Katastrophenschutzbeh\u00F6rden der Landkreise, kreisfreien St\u00E4dte bzw. Bezirksregierungen"
+            },
+            "category": 1,
+            "correct": [
+                3
+            ],
+            "number": 54,
+            "question": "Wer ruft den Katastrophenfall aus?"
+        },
+        {
+            "answers": {
+                "1": "Bei den Kreisverwaltungen",
+                "2": "Beim Bund",
+                "3": "Bei den Bundesl\u00E4ndern"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 55,
+            "question": "Wo liegt die Zust\u00E4ndigkeit f\u00FCr den Zivilschutz?"
+        },
+        {
+            "answers": {
+                "1": "Zum Zweck der technischen Hilfeleistung in der allgemeinen Gefahrenabwehr",
+                "2": "Zum Zweck der technischen Hilfeleistung im  Zivilschutzfall",
+                "3": "Zum Zweck der technischen Hilfeleistung im  Katastrophenfall"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 56,
+            "question": "Zu welchem Zweck wurde die Bundesanstalt Technisches Hilfswerk gegr\u00FCndet?"
+        },
+        {
+            "answers": {
+                "1": "Rettung und Bergung; Notinstandsetzung; Notversorgung; F\u00FChrung und Logistik",
+                "2": "Medizinische Hilfeleistung; Psycho-soziale Notfallversorgung; Verpflegung von Einsatz\u00ADkr\u00E4ften; Personenschutz",
+                "3": "Fahrzeugreparaturen; Rettung und Bergung; Medizinische Hilfeleistung; Koordination"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 57,
+            "question": "Welche vier taktischen Schwerpunkte (gem. THW-Rahmenkonzept) hat das THW?"
+        },
+        {
+            "answers": {
+                "1": "Nach dem Zivilschutz- und Katastrophenhilfegesetz",
+                "2": "Im Ausland im Auftrag der Bundesregierung",
+                "3": "Bei Gefahr in Verzug"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 58,
+            "question": "Das THW leistet technische Hilfe\u2026"
+        },
+        {
+            "answers": {
+                "1": "Sind rechtlich ein Bestandteil der Ortsverb\u00E4nde",
+                "2": "Haben einen eigenen Vorstand",
+                "3": "Sind rechtlich kein Bestandteil der Ortsverb\u00E4nde"
+            },
+            "category": 1,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 59,
+            "question": "\u00D6rtliche Helfervereinigungen\u2026"
+        },
+        {
+            "answers": {
+                "1": "Aus Spenden",
+                "2": "Aus Mitgliedsbeitr\u00E4gen",
+                "3": "Zu 100% aus Mitteln der Bundesanstalt Technisches Hilfswerk"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 60,
+            "question": "Wie finanzieren sich die \u00F6rtlichen THW Helfervereinigungen?"
+        },
+        {
+            "answers": {
+                "1": "1967",
+                "2": "1984",
+                "3": "2001"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 61,
+            "question": "Wann wurde die THW-Jugend auf Bundesebene gegr\u00FCndet?"
+        },
+        {
+            "answers": {
+                "1": "Die THW-Jugend ist der Jugendverband des THW",
+                "2": "Die THW-Jugend hat die Rechtsform eines eingetragenen Vereins (e. V.)",
+                "3": "In jedem THW-Ortsverband ist eine Jugendgruppe aktiv"
+            },
+            "category": 1,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 62,
+            "question": "Welche Aussagen zur THW- Jugend sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Spielen, Lernen, Helfen",
+                "2": "Spielend helfen lernen",
+                "3": "Gespielt, gelernt, geholfen"
+            },
+            "category": 1,
+            "correct": [
+                2
+            ],
+            "number": 63,
+            "question": "Wie lautet das Motto der THWJugend"
+        },
+        {
+            "answers": {
+                "1": "Bundesanstalt Technisches Hilfswerk; THW- Helfervereinigungen e. V.; THW-Jugend e. V.",
+                "2": "THW-Leitung; Das Ehrenamt; THW-Jugend",
+                "3": "Technik; Hilfe; Weitblick"
+            },
+            "category": 1,
+            "correct": [
+                1
+            ],
+            "number": 64,
+            "question": "Das THW besteht aus drei eng miteinander verbundenen S\u00E4ulen. Die S\u00E4ulen sind:"
+        },
+        {
+            "answers": {
+                "1": "Helm, Sicherheitsstiefel, THW Einsatzhandschuhe, Multifunktionaler Einsatzschutzanzug",
+                "2": "Helm, Multifunktionaler Einsatzschutzanzug, Schutzbrille",
+                "3": "Helm, Sicherheitsstiefel, Ledersch\u00FCrze, multifunktionaler Einsatzschutzanzug"
+            },
+            "category": 2,
+            "correct": [
+                1
+            ],
+            "number": 1,
+            "question": "Welche pers\u00F6nliche Schutzausstattung hat jeder Helfer bzw. jeder Helferin immer mitzuf\u00FChren?"
+        },
+        {
+            "answers": {
+                "1": "95\u00B0 Kochw\u00E4sche",
+                "2": "Laut Pflegeanleitung des Herstellers",
+                "3": "Grunds\u00E4tzlich mit Kernseife"
+            },
+            "category": 2,
+            "correct": [
+                2
+            ],
+            "number": 2,
+            "question": "Wie muss der Multifunktionale Einsatzschutzanzug des THW gepflegt werden?"
+        },
+        {
+            "answers": {
+                "1": "Meldeblock bzw. Verbandbuch",
+                "2": "Einsatzsofortmeldung",
+                "3": "Nur m\u00FCndlich gegen\u00FCber dem/der OB"
+            },
+            "category": 2,
+            "correct": [
+                1
+            ],
+            "number": 3,
+            "question": "Wie sind Erste-Hilfe-Leistungen zu dokumentieren?"
+        },
+        {
+            "answers": {
+                "1": "Jede/r Helfer/in selbst",
+                "2": "Das THW",
+                "3": "Die Fachgruppe Logistik"
+            },
+            "category": 2,
+            "correct": [
+                2
+            ],
+            "number": 4,
+            "question": "Wer ist f\u00FCr die Bereitstellung der Arbeitsschutzkleidung verantwortlich?"
+        },
+        {
+            "answers": {
+                "1": "chemisch, biogen, radioaktiv, nuklear",
+                "2": "chemisch, bioaktiv, radiologisch, nat\u00FCrlich",
+                "3": "chemisch, biologisch, radiologisch, nuklear"
+            },
+            "category": 2,
+            "correct": [
+                3
+            ],
+            "number": 5,
+            "question": "Wof\u00FCr steht die Abk\u00FCrzung CBRN?"
+        },
+        {
+            "answers": {
+                "1": "Zu Hause",
+                "2": "Im Einsatz",
+                "3": "Im Ortsverband"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 6,
+            "question": "Wo k\u00F6nnen THW-Angeh\u00F6rige mit Gefahrstoffen in Ber\u00FChrung kommen?"
+        },
+        {
+            "answers": {
+                "1": "Jede/r Helfer/in im THW",
+                "2": "Nur der Pr\u00E4sident des THW",
+                "3": "Nur der/die Auftraggeber/in"
+            },
+            "category": 2,
+            "correct": [
+                1
+            ],
+            "number": 7,
+            "question": "Wer kann f\u00FCr Vergehen im Umgang mit Gefahrstoffen zur Verantwortung gezogen werden (z. B. Bu\u00DFgeld)?"
+        },
+        {
+            "answers": {
+                "1": "M\u00F6glichst gro\u00DFen Abstand zum Unfallort halten, alle Z\u00FCndquellen fernhalten (Motor abstellen, Rauchverbot, etc.) und die Stra\u00DFe sichern (Warnschilder aufstellen), Stra\u00DFenbenutzer/innen sowie Anwohnende warnen",
+                "2": "Verunfallte aus dem gef\u00E4hrlichen Bereich bringen (Schutzma\u00DFnahmen unbedingt beachten - Eigenschutz!)",
+                "3": "Es m\u00FCssen keine Schutzma\u00DFnahmen getroffen werden"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 8,
+            "question": "Was ist bei einem Unfall mit Gefahrstoffen zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Kennzeichnung an den Verpackungen",
+                "2": "Fahrzeugkennzeichnung, mitgef\u00FChrte Fahrzeugpapiere und Merkbl\u00E4tter",
+                "3": "Durch Befragung des/der Fahrers/in"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 9,
+            "question": "Woran kann ich die  Gef\u00E4hrdung, die von einem Gefahrguttransport ausgeht, eindeutig erkennen?"
+        },
+        {
+            "answers": {
+                "1": "orange Warntafel",
+                "2": "gar nicht",
+                "3": "Rote Flagge"
+            },
+            "category": 2,
+            "correct": [
+                1
+            ],
+            "number": 10,
+            "question": "Wie werden kennzeichnungspflichtige Gefahrguttransporte unter anderem gekennzeichnet?"
+        },
+        {
+            "answers": {
+                "1": "Nummer zur Kennzeichnung des Gutes (UN-Nummer)",
+                "2": "Nummer zur Kennzeichnung der Gefahr",
+                "3": "Fahrzeugkennzeichen"
+            },
+            "category": 2,
+            "correct": [
+                2
+            ],
+            "number": 11,
+            "question": "Welche Bedeutung hat die obere Nummernkombination auf einer orangefarbenen Kennzeichnung (Warntafel) z. B. an einem LKW?"
+        },
+        {
+            "answers": {
+                "1": "Nummer zur Kennzeichnung des Gutes (UN-Nummer)",
+                "2": "Nummer zur Kennzeichnung der Gefahr",
+                "3": "Fahrzeugkennzeichen"
+            },
+            "category": 2,
+            "correct": [
+                1
+            ],
+            "number": 12,
+            "question": "Welche Bedeutung hat die untere Nummernkombination auf einer orangefarbenen Kennzeichnung (Warntafel) z. B. an einem LKW"
+        },
+        {
+            "answers": {
+                "1": "bei Bedarf",
+                "2": "mindestens einmal j\u00E4hrlich",
+                "3": "nach jedem Wechsel eines/einer Ortsbeauftragten"
+            },
+            "category": 2,
+            "correct": [
+                2
+            ],
+            "number": 13,
+            "question": "Wie oft ist in der Dienststelle eine Evakuierungs\u00FCbung durchzuf\u00FChren?"
+        },
+        {
+            "answers": {
+                "1": "Aufenthaltsdauer auf das Notwendigste beschr\u00E4nken",
+                "2": "Abstand so gro\u00DF wie m\u00F6glich halten",
+                "3": "Abschirmung so gro\u00DF wie m\u00F6glich einrichten"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 14,
+            "question": "Was bedeutet die \u201E3-A-Regel\u201C im Strahlenschutz?"
+        },
+        {
+            "answers": {
+                "1": "Bakterien, Viren, Pilze, Algen",
+                "2": "Toxine, z. B. Ricin, Botulinumtoxin, usw.",
+                "3": "Fl\u00F6he, Fliegen, M\u00FCcken, Zecken, usw."
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 15,
+            "question": "Wovon k\u00F6nnen biologische Gefahren ausgehen?"
+        },
+        {
+            "answers": {
+                "1": "F\u00FCrsorge von Vorgesetzten gegen\u00FCber den ihnen unterstellten THW-Angeh\u00F6rigen",
+                "2": "Erhaltung und Schutz des Arbeitsplatzes bei l\u00E4ngerfristiger Erkrankung eines THW-Angeh\u00F6rigen",
+                "3": "Selbstf\u00FCrsorge der THW-Angeh\u00F6rigen im Rahmen ihrer Mitwirkungspflicht"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 16,
+            "question": "Was versteht man unter Arbeitsschutz?"
+        },
+        {
+            "answers": {
+                "1": "Sicherheitsdatenblatt",
+                "2": "in der StAN",
+                "3": "auf dem Etikett der Verpackung"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 17,
+            "question": "Wo kann ich Informationen \u00FCber einen Gefahrstoff erhalten?"
+        },
+        {
+            "answers": {
+                "1": "Die Fachkraft f\u00FCr Arbeitssicherheit",
+                "2": "Der/die Ortsbeauftragte",
+                "3": "Der/die Schirrmeister/in"
+            },
+            "category": 2,
+            "correct": [
+                2
+            ],
+            "number": 18,
+            "question": "Wer ist f\u00FCr die Gef\u00E4hrdungsbeurteilung im Ortsverband verantwortlich?"
+        },
+        {
+            "answers": {
+                "1": "Tetanus",
+                "2": "Tollwut",
+                "3": "Hepatitis A und B"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 19,
+            "question": "Welche Impfungen m\u00FCssen unter anderem f\u00FCr die Einsatzbef\u00E4higung nachgewiesen werden?"
+        },
+        {
+            "answers": {
+                "1": "Krebsvorsorge",
+                "2": "Verh\u00FCtung von Unf\u00E4llen und Krankheiten",
+                "3": "Versicherungsschutz"
+            },
+            "category": 2,
+            "correct": [
+                2
+            ],
+            "number": 20,
+            "question": "Was bedeutet \u201EPr\u00E4vention\u201C im Kontext von Arbeitssicherheit und Gesundheitsschutz?"
+        },
+        {
+            "answers": {
+                "1": "20 m und 30 m",
+                "2": "5 m und nach Bedarf",
+                "3": "50 m, 300 m und 500 m"
+            },
+            "category": 2,
+            "correct": [
+                3
+            ],
+            "number": 21,
+            "question": "Wie gro\u00DF sind im Regelfall die Radien von Gefahren- und Absperrbereich um das Schadenobjekt?"
+        },
+        {
+            "answers": {
+                "1": "Leiter/in der Regionalstelle informieren, Ausfahrt melden, Mitfahrende einweisen, schnell zum Einsatzort",
+                "2": "Gef\u00E4hrdungsbeurteilung durchf\u00FChren, Absuchen der Randtr\u00FCmmer, Menschenrettung vorbereiten, Sanit\u00E4tsdienst anfordern",
+                "3": "Gefahren erkennen, Absperren, Menschenrettung, Spezialkr\u00E4fte anfordern"
+            },
+            "category": 2,
+            "correct": [
+                3
+            ],
+            "number": 22,
+            "question": "Was bedeutet die \u201EGAMS-Regel\u201C?"
+        },
+        {
+            "answers": {
+                "1": "Berater/in in Fragen der Arbeitssicherheit und Unfallverh\u00FCtung",
+                "2": "Verantwortlich f\u00FCr Arbeitssicherheit und Unfallverh\u00FCtung",
+                "3": "Verantwortlich f\u00FCr die Erstellung der Dienst- und Ausbildungspl\u00E4ne"
+            },
+            "category": 2,
+            "correct": [
+                1
+            ],
+            "number": 23,
+            "question": "Welche Aufgaben hat der/die Sicherheitsbeauftragte in Ihrem Ortsverband?"
+        },
+        {
+            "answers": {
+                "1": "Viel trinken",
+                "2": "Pause in der Sonne",
+                "3": "Pause im Schatten"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 24,
+            "question": "Wie muss ich mich im Einsatz bei Hitze verhalten?"
+        },
+        {
+            "answers": {
+                "1": "Multifunktionalen Einsatzanzug mit Fleecejacke tragen",
+                "2": "Gl\u00FChwein trinken",
+                "3": "Warme, alkoholfreie Getr\u00E4nke trinken"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 25,
+            "question": "Wie muss ich mich im Einsatz bei K\u00E4lte verhalten?"
+        },
+        {
+            "answers": {
+                "1": "Wenn die Kleidung durchn\u00E4sst ist, trockene Kleidung anziehen",
+                "2": "Nasse Kleidung nicht am K\u00F6rper trocknen lassen (Erk\u00E4ltungsgefahr)",
+                "3": "Pausen in trockenen R\u00E4umen abhalten und nasse Einsatzbekleidung trocknen"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 26,
+            "question": "Wie muss ich mich bei einem Einsatz mit Regen verhalten?"
+        },
+        {
+            "answers": {
+                "1": "Nur der/die Evakuierungshelfer/in",
+                "2": "Jede einzelne Person",
+                "3": "Der/die Brandschutzhelfer/in und der/die Evakuierungshelfer/in"
+            },
+            "category": 2,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 27,
+            "question": "Wer hat bei der Evakuierung einer Dienststelle dazu beizutragen, dass alle Personen das Geb\u00E4ude verlassen haben und sich am Sammelplatz einfinden?"
+        },
+        {
+            "answers": {
+                "1": "Selbstf\u00FCrsorge der THW-Angeh\u00F6rigen im Rahmen ihrer Mitwirkungspflicht",
+                "2": "F\u00FCrsorge von Vorgesetzten gegen\u00FCber den ihnen unterstellten THW-Angeh\u00F6rigen",
+                "3": "Ma\u00DFnahmen, Mittel und Methoden zum Schutz der Besch\u00E4ftigten vor arbeitsbedingten Sicherheits- und Gesundheitsgef\u00E4hrdungen"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 28,
+            "question": "Was versteht man unter Arbeitsschutz?"
+        },
+        {
+            "answers": {
+                "1": "Die Fachkraft f\u00FCr Arbeitssicherheit",
+                "2": "Der/die Schirrmeister/in",
+                "3": "Der/die Ortsbeauftragte"
+            },
+            "category": 2,
+            "correct": [
+                3
+            ],
+            "number": 29,
+            "question": "Wer ist f\u00FCr die Gef\u00E4hrdungsbeurteilung im Ortsverband verantwortlich?"
+        },
+        {
+            "answers": {
+                "1": "Gefahrgut sind Stoffe und Gegenst\u00E4nde, von denen auf Grund ihrer Natur, ihrer Eigenschaften oder ihres Zustandes im Zusammenhang mit der Bef\u00F6rderung Gefahren ausgehen k\u00F6nnen.",
+                "2": "Geld und wertvolle Antiquit\u00E4ten",
+                "3": "Getr\u00E4nke f\u00FCr die Einheiten"
+            },
+            "category": 2,
+            "correct": [
+                1
+            ],
+            "number": 30,
+            "question": "Was ist Gefahrgut?"
+        },
+        {
+            "answers": {
+                "1": "Gefahrstoffe sind Stoffe, die Helfern nur selten gef\u00E4hrlich werden k\u00F6nnen",
+                "2": "Gefahrstoffe sind Stoffe, Zubereitungen und Erzeugnisse, die bestimmte gef\u00E4hrliche Eigenschaften aufweisen oder von denen chemisch- physikalische Gefahren ausgehen",
+                "3": "Gefahrstoffe sind Stoffe, f\u00FCr die ein/e Helfer/in keine Schutzbekleidung ben\u00F6tigt"
+            },
+            "category": 2,
+            "correct": [
+                2
+            ],
+            "number": 31,
+            "question": "Was sind Gefahrstoffe?"
+        },
+        {
+            "answers": {
+                "1": "Anschrift des Lieferanten, Bef\u00F6rderungsbl\u00E4tter, Telefonnummer der Spedition und Fahrzeugschein",
+                "2": "UN\u00ADNummer, Gefahrnummer, offizielle Benennung des Stoffes/Gegenstandes, Klasse des Gutes, Anzahl/Beschreibung Versandst\u00FCcke, Gesamtmenge, Name und Anschrift des Absenders sowie des Empf\u00E4ngers, Unfallmerkblatt",
+                "3": "Lieferschein, Unfallmerkbl\u00E4tter, Lebenslauf"
+            },
+            "category": 2,
+            "correct": [
+                2
+            ],
+            "number": 32,
+            "question": "Welche Bef\u00F6rderungspapiere sind auf Anforderung durch den Fahrer eines GefahrguttransportLKWs vorzulegen?"
+        },
+        {
+            "answers": {
+                "1": "Bakterien, Viren, Pilze, Algen",
+                "2": "Toxine, z. B. Ricin, Botulinustoxin, usw.",
+                "3": "Fl\u00F6he, Fliegen, M\u00FCcken, Zecken, usw."
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 33,
+            "question": "Was sind biologische Gefahrstoffe?"
+        },
+        {
+            "answers": {
+                "1": "Explosionsgef\u00E4hrlich, leicht Entz\u00FCndlich, giftig, \u00E4tzend",
+                "2": "Scharf, brennbar, irritierend, f\u00E4rbend",
+                "3": "Brandf\u00F6rdernd, gesundheitssch\u00E4dlich, sensibilisierend, umweltgef\u00E4hrlich"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 34,
+            "question": "Was sind Eigenschaften chemischer Gefahrstoffe gem\u00E4\u00DF Gefahrstoffverordnung?"
+        },
+        {
+            "answers": {
+                "1": "Inhalt, F\u00FCllmenge, Preis, Lieferant",
+                "2": "Exakte Bezeichnung des Inhalts, Inhaltsstoffe, Gefahrensymbole und Gefahrenbezeichnungen, ggf. Signalwort \u201EGefahr\u201C oder \u201EAchtung\u201C, H- und P-S\u00E4tze, Name, Anschrift und Telefonnummer des Herstellers oder Importeurs",
+                "3": "Warnzeichen, Sicherheitszeichen, Inhaltsstoffe, Gefahrenklasse, UN-Nummer"
+            },
+            "category": 2,
+            "correct": [
+                2
+            ],
+            "number": 35,
+            "question": "Welche Angaben sind auf einem Gefahrstoffetikett zu finden?"
+        },
+        {
+            "answers": {
+                "1": "Im Gefahrenbereich nicht rauchen, essen und trinken",
+                "2": "Dekontamination, Waschen, Toilettengang, Ruhen usw. ausschlie\u00DFlich in angeordneten Bereichen des Absperrbereiches",
+                "3": "Kontaminierte Einsatzbekleidung zum Essen, Trinken, Rauchen, Toilettengang ablegen und mindestens H\u00E4nde waschen"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 36,
+            "question": "Was sind hinsichtlich der Hygiene in jedem Einsatz zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Gr\u00FCndlich dekontaminieren, waschen, duschen. Einsatzbekleidung fachgerecht reinigen (lassen)",
+                "2": "Unwohlsein, Erkrankung, Verletzung melden. \u00C4rztliche \u00DCberwachung bei besonderen Gefahren/ Vorkommnissen durchf\u00FChren lassen",
+                "3": "Angebote zur psycho-sozialen Nachsorge wahrnehmen"
+            },
+            "category": 2,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 37,
+            "question": "Was ist hinsichtlich der Einsatznachbereitung zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "15 m",
+                "2": "30 m",
+                "3": "35 m"
+            },
+            "category": 3,
+            "correct": [
+                2
+            ],
+            "number": 1,
+            "question": "Wie lang ist ein Sicherheitsseil?"
+        },
+        {
+            "answers": {
+                "1": "6,5 m / 15,0 m",
+                "2": "12,0 m / 25,0 m",
+                "3": "10,0 m / 20,0 m"
+            },
+            "category": 3,
+            "correct": [
+                3
+            ],
+            "number": 2,
+            "question": "Wie lang ist eine Arbeitsleine (nach StAN)?"
+        },
+        {
+            "answers": {
+                "1": "Sicherheitsseile",
+                "2": "Arbeitsleinen",
+                "3": "Jede Naturfaserleine"
+            },
+            "category": 3,
+            "correct": [
+                1
+            ],
+            "number": 3,
+            "question": "Welche Leinen/Seile d\u00FCrfen zum Sichern von Personen verwendet werden?"
+        },
+        {
+            "answers": {
+                "1": "Zur Absturzsicherung bei Verwendung eines mitlaufenden Auffangger\u00E4tes",
+                "2": "Zum Ablassen und Hochziehen von Personen",
+                "3": "Zum Anschlagen von Lasten"
+            },
+            "category": 3,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 4,
+            "question": "Wozu d\u00FCrfen Sicherheitsseile eingesetzt werden?"
+        },
+        {
+            "answers": {
+                "1": "Zur Absturzsicherung",
+                "2": "Zum Ablassen und Hochziehen von Personen",
+                "3": "Zum Absperren oder Anschlagen von Lasten"
+            },
+            "category": 3,
+            "correct": [
+                3
+            ],
+            "number": 5,
+            "question": "Wozu d\u00FCrfen Arbeitsleinen eingesetzt werden?"
+        },
+        {
+            "answers": {
+                "1": "Auf Gleitschutz",
+                "2": "Auf Kantenschutz",
+                "3": "Auf Leinen-/Seilschutz"
+            },
+            "category": 3,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 6,
+            "question": "Worauf ist zu achten, wenn Leinen und Seile \u00FCber Kanten gef\u00FChrt werden m\u00FCssen?"
+        },
+        {
+            "answers": {
+                "1": "An der Farbe \u201Egr\u00FCn\u201C",
+                "2": "An den Angaben des Herstelleretikettes",
+                "3": "Am Durchmesser"
+            },
+            "category": 3,
+            "correct": [
+                2
+            ],
+            "number": 7,
+            "question": "Woran ist ein Sicherheitsseil eindeutig zu erkennen?"
+        },
+        {
+            "answers": {
+                "1": "Aufschie\u00DFen und auf die Heizung legen",
+                "2": "Aufh\u00E4ngen und an der Luft trocknen",
+                "3": "Aufh\u00E4ngen und in der Sonne trocknen"
+            },
+            "category": 3,
+            "correct": [
+                2
+            ],
+            "number": 8,
+            "question": "Wie werden nasse Leinen und Seile nach ihrem Einsatz behandelt?"
+        },
+        {
+            "answers": {
+                "1": "mindestens 5 x Leinendurchmesser",
+                "2": "mindestens 10 x Leinendurchmesser",
+                "3": "mindestens 30 x Leinendurchmesser"
+            },
+            "category": 3,
+            "correct": [
+                2
+            ],
+            "number": 9,
+            "question": "Wie lang muss nach Fertigstellung einer Leinenverbindung das Leinenende noch \u00FCberstehen?"
+        },
+        {
+            "answers": {
+                "1": "Wickelbund",
+                "2": "Mastwurf",
+                "3": "Doppelstich"
+            },
+            "category": 3,
+            "correct": [
+                3
+            ],
+            "number": 10,
+            "question": "Mit welcher Verbindung werden Leinen gleichen Durchmessers verl\u00E4ngert?"
+        },
+        {
+            "answers": {
+                "1": "Rundschlingen",
+                "2": "Sicherheitsseil",
+                "3": "Ketten"
+            },
+            "category": 3,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 11,
+            "question": "Womit werden Lasten angeschlagen?"
+        },
+        {
+            "answers": {
+                "1": "Einfacher/doppelter Ankerstich",
+                "2": "Mastwurf",
+                "3": "Bockschn\u00FCrbund"
+            },
+            "category": 3,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 12,
+            "question": "Mit welchem der aufgef\u00FChrten Stiche/Bund wird eine Last angeschlagen?"
+        },
+        {
+            "answers": {
+                "1": "Halbe Seill\u00E4nge",
+                "2": "Eineinhalbfache Seill\u00E4nge",
+                "3": "Zweifache Seill\u00E4nge"
+            },
+            "category": 3,
+            "correct": [
+                2
+            ],
+            "number": 13,
+            "question": "Wie gro\u00DF muss der Sicherheitsabstand bei unter Zug stehenden Drahtseilen mindestens sein?"
+        },
+        {
+            "answers": {
+                "1": "Mit Drahtseilklemmen",
+                "2": "Mit Sch\u00E4keln",
+                "3": "Mit Knoten"
+            },
+            "category": 3,
+            "correct": [
+                2
+            ],
+            "number": 14,
+            "question": "Mit welchen Verbindungsmitteln werden Ketten verl\u00E4ngert?"
+        },
+        {
+            "answers": {
+                "1": "Zum Retten von Personen",
+                "2": "Zum Anschlagen von Lasten",
+                "3": "Zur Ladungssicherung"
+            },
+            "category": 3,
+            "correct": [
+                1
+            ],
+            "number": 15,
+            "question": "Wozu dienen Bandschlingen?"
+        },
+        {
+            "answers": {
+                "1": "Zur Rettung von Personen",
+                "2": "Zur Ladungssicherung",
+                "3": "Zum Anschlagen von Lasten"
+            },
+            "category": 3,
+            "correct": [
+                2
+            ],
+            "number": 16,
+            "question": "Wozu d\u00FCrfen Spanngurte verwendet werden?"
+        },
+        {
+            "answers": {
+                "1": "Arbeitsleinen d\u00FCrfen weder zur Sicherung noch zur Rettung von Personen eingesetzt werden",
+                "2": "Arbeitsleinen d\u00FCrfen zur Sicherung und Rettung von Personen eingesetzt werden",
+                "3": "Arbeitsleinen sind Sicherheitsseile"
+            },
+            "category": 3,
+            "correct": [
+                1
+            ],
+            "number": 17,
+            "question": "Welche Aussagen \u00FCber Arbeitsleinen sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Spanngurte d\u00FCrfen im THW als Ersatz f\u00FCr Leinen eingesetzt werden",
+                "2": "Spanngurte werden grunds\u00E4tzlich zur Ladungssicherung verwendet",
+                "3": "Spanngurte d\u00FCrfen zur Ladungssicherung nicht verwendet werden"
+            },
+            "category": 3,
+            "correct": [
+                2
+            ],
+            "number": 18,
+            "question": "Welche Aussagen \u00FCber Spanngurte sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Tragf\u00E4higkeit, DIN, Herstellerkennzeichen, Herstelldatum",
+                "2": "Tragf\u00E4higkeit, L\u00E4nge, Materialart, Ablegereife",
+                "3": "Tragf\u00E4higkeit, DIN, Herstelldatum, Ablegereife"
+            },
+            "category": 3,
+            "correct": [
+                1
+            ],
+            "number": 19,
+            "question": "Welche Hinweise sind unter anderem auf Pressh\u00FClsen von Drahtseilen gekennzeichnet?"
+        },
+        {
+            "answers": {
+                "1": "Kontakt mit Schmier\u00F6len",
+                "2": "Drahtbr\u00FCche",
+                "3": "Knicke"
+            },
+            "category": 3,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 20,
+            "question": "Welche Kriterien sind f\u00FCr die Ablegereife von Drahtseilen wichtig?"
+        },
+        {
+            "answers": {
+                "1": "Anschlagketten sind mind. Meterweise mittels Kettenstempel des Herstellers markiert",
+                "2": "Weist eine Kette keinen Anh\u00E4nger auf, ist sie der G\u00FCteklasse 2 zuzuordnen",
+                "3": "Bei eckigen Kettenanh\u00E4ngern l\u00E4sst sich anhand der Anzahl der Ecken die G\u00FCteklasse bestimmen"
+            },
+            "category": 3,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 21,
+            "question": "Welche Aussagen \u00FCber Ketten sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Fehlende oder unleserliche Kennung",
+                "2": "Sch\u00E4den durch Einwirkung aggressiver Stoffe",
+                "3": "Verformung durch z. B. W\u00E4rmeeinfluss"
+            },
+            "category": 3,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 22,
+            "question": "Welche Kriterien sind f\u00FCr die Ablegereife von Rundschlinge wichtig?"
+        },
+        {
+            "answers": {
+                "1": "Kennzeichnung \u00FCberpr\u00FCfen",
+                "2": "Hitzeeinwirkung vermeiden",
+                "3": "Pr\u00FCfzyklus: 12 Monate"
+            },
+            "category": 3,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 23,
+            "question": "Welche Unfallverh\u00FCtungsvorschriften sind beim Einsatz von Bandschlingen zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Ca. 45\u00B0 - 55\u00B0",
+                "2": "Ca. 65\u00B0 - 75\u00B0",
+                "3": "Ca. 90\u00B0"
+            },
+            "category": 4,
+            "correct": [
+                2
+            ],
+            "number": 1,
+            "question": "Wie viel Grad Neigung soll der Anstellwinkel von Leitern betragen?"
+        },
+        {
+            "answers": {
+                "1": "Um die Sprossen",
+                "2": "Um die Holme",
+                "3": "Um die Sprossen oder um die Holme"
+            },
+            "category": 4,
+            "correct": [
+                1
+            ],
+            "number": 2,
+            "question": "Wohin greifen die H\u00E4nde beim Besteigen von Leitern?"
+        },
+        {
+            "answers": {
+                "1": "Nur Fu\u00DFpunktsicherung",
+                "2": "Nur Kopfpunktsicherung",
+                "3": "Fu\u00DF- und/oder Kopfpunktsicherung"
+            },
+            "category": 4,
+            "correct": [
+                3
+            ],
+            "number": 3,
+            "question": "Welche Arten von Leitersicherungen k\u00F6nnen angewandt werden?"
+        },
+        {
+            "answers": {
+                "1": "Zum \u00DCberwinden von Gr\u00E4ben",
+                "2": "Zum l\u00E4ngerfristigen Arbeiten in gro\u00DFen H\u00F6hen",
+                "3": "Zum Besteigen von Objekten"
+            },
+            "category": 4,
+            "correct": [
+                3
+            ],
+            "number": 4,
+            "question": "Wozu d\u00FCrfen THW-Kombinationsleitern eingesetzt werden?"
+        },
+        {
+            "answers": {
+                "1": "Ja",
+                "2": "Nein",
+                "3": "Nur kurzfristig"
+            },
+            "category": 4,
+            "correct": [
+                1
+            ],
+            "number": 5,
+            "question": "D\u00FCrfen Steckleitern zum \u00DCberwinden von Gr\u00E4ben und Spalten eingesetzt werden?"
+        },
+        {
+            "answers": {
+                "1": "12 Volt",
+                "2": "24 Volt",
+                "3": "230 Volt"
+            },
+            "category": 5,
+            "correct": [
+                3
+            ],
+            "number": 1,
+            "question": "Auf welche Netzspannung sind die Flutlichtleuchten ausgelegt?"
+        },
+        {
+            "answers": {
+                "1": "100 % der Nennleistung",
+                "2": "80 % der Nennleistung",
+                "3": "30 % der Nennleistung"
+            },
+            "category": 5,
+            "correct": [
+                2
+            ],
+            "number": 2,
+            "question": "Mit welcher Leistung darf der tragbare Stromerzeuger in der Regel maximal belastet werden?"
+        },
+        {
+            "answers": {
+                "1": "Ja",
+                "2": "Nein",
+                "3": "F\u00FCr maximal 10 Minuten"
+            },
+            "category": 5,
+            "correct": [
+                2
+            ],
+            "number": 3,
+            "question": "D\u00FCrfen an einem tragbaren 8 kVA-Stromerzeuger eine Tauchpumpe mit 4 kW und eine mit 3 kW gleichzeitig betrieben werden?"
+        },
+        {
+            "answers": {
+                "1": "Durch Seilzug",
+                "2": "Durch Anlasser",
+                "3": "Durch Fremdstarten"
+            },
+            "category": 5,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 4,
+            "question": "Wie wird der tragbare Stromerzeuger gestartet?"
+        },
+        {
+            "answers": {
+                "1": "Herausgezogen",
+                "2": "Eingeschoben",
+                "3": "Mittelstellung"
+            },
+            "category": 5,
+            "correct": [
+                1
+            ],
+            "number": 5,
+            "question": "In welcher Stellung muss der Chokezug bei Inbetriebnahme des kalten Motors des tragbaren Stromerzeugers ohne Startautomatik stehen?"
+        },
+        {
+            "answers": {
+                "1": "Kraftstoff-/\u00D6l-Gemisch",
+                "2": "Diesel",
+                "3": "Benzin"
+            },
+            "category": 5,
+            "correct": [
+                3
+            ],
+            "number": 6,
+            "question": "Mit welchem Betriebsstoff wird der Motor des mobilen Stromerzeugers betrieben?"
+        },
+        {
+            "answers": {
+                "1": "Motor muss abgestellt sein",
+                "2": "Motor kann laufen",
+                "3": "Benzinhahn muss geschlossen sein"
+            },
+            "category": 5,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 7,
+            "question": "Was ist beim Nachtanken eines tragbaren Stromerzeugers (ohne Fremdbetankungsger\u00E4t) zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Z\u00FCndkabel abziehen",
+                "2": "Luftklappe schlie\u00DFen",
+                "3": "Unterbrecherknopf bet\u00E4tigen"
+            },
+            "category": 5,
+            "correct": [
+                3
+            ],
+            "number": 8,
+            "question": "Wie wird der Motor des tragbaren Stromerzeugers stillgesetzt (f\u00FCr kurzzeitige Au\u00DFerbetriebnahme)?"
+        },
+        {
+            "answers": {
+                "1": "M\u00F6glichst blendungsfrei aufstellen",
+                "2": "Sicheren Stand des Stativs herstellen",
+                "3": "Leitung stolperfrei verlegen"
+            },
+            "category": 5,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 9,
+            "question": "Was ist beim Aufbau einer Flutlichtleuchte mit Stativ zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Leuchtmittel muss abk\u00FChlen",
+                "2": "Spannungsfreiheit herstellen",
+                "3": "Sicherungsautomat auf Stellung \u201EAus\u201C stellen"
+            },
+            "category": 5,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 10,
+            "question": "Was ist beim R\u00FCckbau einer Flutlichtleuchte mit Stativ zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "200 m",
+                "2": "300 m",
+                "3": "100 m"
+            },
+            "category": 5,
+            "correct": [
+                3
+            ],
+            "number": 11,
+            "question": "Wie gro\u00DF darf die maximale L\u00E4nge einer Leitung an tragbaren Stromerzeugern sein?"
+        },
+        {
+            "answers": {
+                "1": "Dreibeinstativ",
+                "2": "Leuchtk\u00F6rper 500 W",
+                "3": "Scheinwerferbr\u00FCcke"
+            },
+            "category": 5,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 12,
+            "question": "Zur StAN THW-Beleuchtungsausstattung der Bergungsgruppe geh\u00F6ren\u2026"
+        },
+        {
+            "answers": {
+                "1": "Kabelbr\u00FCcken sind nur auf Stra\u00DFen au\u00DFerhalb geschlossener Ortschaften zu verlegen. Eine zus\u00E4tzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen",
+                "2": "Kabelbr\u00FCcken sind nur auf Stra\u00DFen innerhalb geschlossener Ortschaft zu verlegen. Eine zus\u00E4tzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen",
+                "3": "Kabelbr\u00FCcken sind so zu verlege, dass Fahrzeuge verschiedener Spurbreite (PKW / LKW) die Leitung queren k\u00F6nnen. Eine zus\u00E4tzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen"
+            },
+            "category": 5,
+            "correct": [
+                3
+            ],
+            "number": 13,
+            "question": "Welche besonderen Absicherungsma\u00DFnahmen sind beim Verlegen elektrischer Leitungen \u00FCber Verkehrswegen zu ergreifen?"
+        },
+        {
+            "answers": {
+                "1": "Elektrische Leitungen werden vom Verbraucher zum Stromerzeugerausgelegt",
+                "2": "Elektrische Leitungen werden stolperfrei in Buchten verlegt",
+                "3": "Elektrische Leitungen werden vom Stromerzeuger zum Verbraucher ausgelegt"
+            },
+            "category": 5,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 14,
+            "question": "Welche Aussagen \u00FCber die Verlegung von elektrischen Leitungen sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Eine umgehende Vorstellung beim Arzt ist erforderlich",
+                "2": "Wenn die Person keine Beschwerden hat, sind keine Ma\u00DFnahmen erforderlich",
+                "3": "Der Rettungsdienst ist mit dem Hinweis \u201EStromunfall\u201C zu alarmieren"
+            },
+            "category": 5,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 15,
+            "question": "Beim Arbeiten mit einem Stromerzeuger kommt es zu einem technischen Defekt, bei dem eine Einsatzkraft einen Stromschlag bekommt. Was ist zu tun?"
+        },
+        {
+            "answers": {
+                "1": "Zugmesser",
+                "2": "Spitzmei\u00DFel",
+                "3": "Stangen-Schlangenbohrer"
+            },
+            "category": 6,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 1,
+            "question": "Welche der aufgef\u00FChrten Werkzeuge sind Holzbearbeitungswerkzeuge?"
+        },
+        {
+            "answers": {
+                "1": "Zum Entrinden",
+                "2": "Zum Entgraten von Metall",
+                "3": "Zum Abl\u00E4ngen von Holz"
+            },
+            "category": 6,
+            "correct": [
+                1
+            ],
+            "number": 2,
+            "question": "Wozu dient das Zugmesser?"
+        },
+        {
+            "answers": {
+                "1": "Auf festen Sitz der Stiele",
+                "2": "Auf ausreichende Schneidf\u00E4higkeit",
+                "3": "Auf ausreichenden Sicherheitsabstand zum/zur n\u00E4chsten Helfer/in"
+            },
+            "category": 6,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 3,
+            "question": "Worauf m\u00FCssen Sie beim Umgang mit Holzbearbeitungsger\u00E4ten achten?"
+        },
+        {
+            "answers": {
+                "1": "Ca. einfacher Durchmesser des Pfahles",
+                "2": "Ca. zweifacher Durchmesser des Pfahles",
+                "3": "Ca. dreifacher Durchmesser des Pfahles"
+            },
+            "category": 6,
+            "correct": [
+                2
+            ],
+            "number": 4,
+            "question": "Wie lang soll die Spitze eines Holzpfahles sein?"
+        },
+        {
+            "answers": {
+                "1": "Am Zopfende",
+                "2": "Am Stammende",
+                "3": "Am Stamm- oder Zopfende"
+            },
+            "category": 6,
+            "correct": [
+                1
+            ],
+            "number": 5,
+            "question": "An welchem Ende eines Holzpfahles erfolgt das Anspitzen?"
+        },
+        {
+            "answers": {
+                "1": "Durch wechselseitige Schl\u00E4ge \u00FCber den rechtwinklig abgebogenen Spitzen",
+                "2": "Durch Schl\u00E4ge auf die Mitte des Flach- oder Rundstahls",
+                "3": "Durch wechselseitige Schl\u00E4ge auf die Mitte und die rechtwinklig abgebogenen Spitzen"
+            },
+            "category": 6,
+            "correct": [
+                1
+            ],
+            "number": 6,
+            "question": "Wie wird eine Bauklammer in Holz geschlagen?"
+        },
+        {
+            "answers": {
+                "1": "Einfache H\u00F6he (1 x h)",
+                "2": "Zweifache H\u00F6he (2 x h)",
+                "3": "Halbe H\u00F6he (0,5 x h)"
+            },
+            "category": 6,
+            "correct": [
+                2
+            ],
+            "number": 7,
+            "question": "Wie lang muss die \u00DCberblattung in L\u00E4ngsrichtung bei einer Holzverbindung sein?"
+        },
+        {
+            "answers": {
+                "1": "Hitzeschutzhandschuhe",
+                "2": "Gummihandschuhe",
+                "3": "Lederschutzhandschuhe (Stulpe) oder Einsatzhandschuhe"
+            },
+            "category": 6,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 8,
+            "question": "Welche Handschuhe d\u00FCrfen auf keinen Fall bei der Steinbearbeitung getragen werden?"
+        },
+        {
+            "answers": {
+                "1": "Schwei\u00DFbrille",
+                "2": "Schutzbrille",
+                "3": "Ledersch\u00FCrze"
+            },
+            "category": 6,
+            "correct": [
+                2
+            ],
+            "number": 9,
+            "question": "Welche zus\u00E4tzliche Schutzausr\u00FCstung ist (neben dem Handschutz) beim Arbeiten mit F\u00E4ustel und Mei\u00DFel unbedingt zu tragen?"
+        },
+        {
+            "answers": {
+                "1": "Auf festen Sitz von Stiel und Keil",
+                "2": "Der Stiel muss lackiert sein",
+                "3": "Das Hammergewicht muss den Vorschriften entsprechen"
+            },
+            "category": 6,
+            "correct": [
+                1
+            ],
+            "number": 10,
+            "question": "Worauf ist bei der Verwendung von H\u00E4mmern zu achten?"
+        },
+        {
+            "answers": {
+                "1": "Mit dem Stechbeitel",
+                "2": "Mit der Hydropresse",
+                "3": "Durch leichte seitliche Schl\u00E4ge"
+            },
+            "category": 6,
+            "correct": [
+                3
+            ],
+            "number": 11,
+            "question": "Wie l\u00F6st man festsitzende Mei\u00DFel?"
+        },
+        {
+            "answers": {
+                "1": "Abrutschen des Hammers",
+                "2": "Verletzungen durch Absplittern des Bartes",
+                "3": "Bruch des Mei\u00DFels"
+            },
+            "category": 6,
+            "correct": [
+                2
+            ],
+            "number": 12,
+            "question": "Welche Gefahr entsteht durch einen \u201EBart\u201C am Mei\u00DFelkopf?"
+        },
+        {
+            "answers": {
+                "1": "Kl\u00F6pfel und Stechbeitel",
+                "2": "F\u00E4ustel und Flach- oder Spitzsteinmei\u00DFel",
+                "3": "Stangen-Schlangenbohrer"
+            },
+            "category": 6,
+            "correct": [
+                2
+            ],
+            "number": 13,
+            "question": "Welche Werkzeuge k\u00F6nnen zum Anfertigen eines Mauerdurchbruchs von Hand benutzt werden?"
+        },
+        {
+            "answers": {
+                "1": "Netzstecker herausziehen",
+                "2": "Stillstand der Trennscheibe abwarten",
+                "3": "Leitungsf\u00FChrung beachten"
+            },
+            "category": 6,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 14,
+            "question": "Was ist vor Ablegen des Elektro- Trennschleifers unbedingt zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Finger nicht am Ein-/Ausschalter halten",
+                "2": "Vorher Trennscheibe ausbauen",
+                "3": "Ger\u00E4t ausschalten; Stillstand der Trennscheibe abwarten"
+            },
+            "category": 6,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 15,
+            "question": "Was ist beim Standortwechsel mit dem Elektro-Trennschleifer zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Wenn die Werkstoffpartikel von Benutzer/in und Ger\u00E4t weggelenkt werden",
+                "2": "Wenn der Trenn-/ Schleifscheibenschutz mit der \u00D6ffnung nach oben zeigt",
+                "3": "Wenn der Trenn-/ Schleifscheibenschutz mit der \u00D6ffnung nach unten zeigt"
+            },
+            "category": 6,
+            "correct": [
+                1
+            ],
+            "number": 16,
+            "question": "Wann ist der Trenn-/ Schleifscheibenschutz richtig eingestellt?"
+        },
+        {
+            "answers": {
+                "1": "H\u00E4rter",
+                "2": "Gleich hart",
+                "3": "Weicher"
+            },
+            "category": 6,
+            "correct": [
+                1
+            ],
+            "number": 17,
+            "question": "Welche H\u00E4rte muss der Werkstoff eines Werkzeuges f\u00FCr Metallbearbeitung gegen\u00FCber dem zu bearbeitenden Werkstoff besitzen?"
+        },
+        {
+            "answers": {
+                "1": "Mit der Feile",
+                "2": "Mit dem Mei\u00DFel",
+                "3": "Mit der Handblechschere"
+            },
+            "category": 6,
+            "correct": [
+                1
+            ],
+            "number": 18,
+            "question": "Mit welchem Werkzeug werden Blechkanten und Rohre entgratet?"
+        },
+        {
+            "answers": {
+                "1": "Trennschleifer",
+                "2": "Motorkettens\u00E4ge",
+                "3": "B\u00FCgels\u00E4ge"
+            },
+            "category": 6,
+            "correct": [
+                1
+            ],
+            "number": 19,
+            "question": "Welches Werkzeug kann zum Durchtrennen eines Gussrohres verwendet werden?"
+        },
+        {
+            "answers": {
+                "1": "Bei Stillstand",
+                "2": "Bei Anlaufdrehzahl",
+                "3": "Bei H\u00F6chstdrehzahl"
+            },
+            "category": 6,
+            "correct": [
+                3
+            ],
+            "number": 20,
+            "question": "Mit welcher Umdrehungszahl der Trennscheibe sind Trennschleifer an das Werkst\u00FCck anzusetzen?"
+        },
+        {
+            "answers": {
+                "1": "Kunstharztrennscheibe Metall",
+                "2": "Kunstharztrennscheibe Asphalt",
+                "3": "Kunstharztrennscheibe Stein"
+            },
+            "category": 6,
+            "correct": [
+                2
+            ],
+            "number": 21,
+            "question": "Mit welcher Trennscheibe darf Aluminium durchtrennt werden?"
+        },
+        {
+            "answers": {
+                "1": "Ledersch\u00FCrze, G\u00FCrtel",
+                "2": "Gummistiefel, Schnittschutzhose",
+                "3": "Schutzbrille, Schutzhelm, Ledersch\u00FCrze, Geh\u00F6rschutz"
+            },
+            "category": 6,
+            "correct": [
+                3
+            ],
+            "number": 22,
+            "question": "Welche Schutzausstattung muss beim Gebrauch des Trennschleifers (neben dem Handschutz) unbedingt getragen werden?"
+        },
+        {
+            "answers": {
+                "1": "Feilen sollten vor jedem Gebrauch ge\u00F6lt werden",
+                "2": "Es gibt verschiedene Hiebarten bei Feilen",
+                "3": "Feilen d\u00FCrfen nur mit speziellen Feilenb\u00FCrsten gereinigt werden"
+            },
+            "category": 6,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 23,
+            "question": "Welche der folgenden Aussagen im Bezug auf Feilen sind zutreffend?"
+        },
+        {
+            "answers": {
+                "1": "3 Jahre",
+                "2": "5 Jahre",
+                "3": "Die Trennscheibe ist unbegrenzt haltbar"
+            },
+            "category": 6,
+            "correct": [
+                1
+            ],
+            "number": 24,
+            "question": "Wie lange ist eine Kunstharztrennscheibe haltbar?"
+        },
+        {
+            "answers": {
+                "1": "Bei der Benutzung von Maschinen, bei denen Funkenflug zu erwarten ist, muss L\u00F6schmittel bereitgestellt werden",
+                "2": "Elektrisch betriebene Ger\u00E4te zur Metallbearbeitung d\u00FCrfen nur an einer Steckdose betrieben werden, nicht an SEA oder NEA",
+                "3": "F\u00FCr die S\u00E4bels\u00E4ge gibt es verschiedene S\u00E4gebl\u00E4tter f\u00FCr verschiedene Materialien"
+            },
+            "category": 6,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 25,
+            "question": "Welche der folgenden Aussagen im Bezug auf Maschinen sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Staubschutzmaske",
+                "2": "Hitzeschutzanzug",
+                "3": "Augenschutz"
+            },
+            "category": 6,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 26,
+            "question": "Welche Schutzausstattung ist beim Durchtrennen eines Betonteils mit dem Trennschleifer u. a. zu tragen?"
+        },
+        {
+            "answers": {
+                "1": "S\u00E4bels\u00E4ge",
+                "2": "Bohr- und Aufbrechhammer",
+                "3": "Trennschleifer mit Verbrennungsmotor"
+            },
+            "category": 6,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 27,
+            "question": "Mit welchen Maschinen k\u00F6nnen Steine und Beton bearbeitet werden?"
+        },
+        {
+            "answers": {
+                "1": "Ziegelsteine",
+                "2": "Hohlblocksteine",
+                "3": "Holz"
+            },
+            "category": 7,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 1,
+            "question": "Welches Material darf als \u201EHebeldrehpunkt\u201C bei der Verwendung der Brechstange nicht verwendet werden?"
+        },
+        {
+            "answers": {
+                "1": "Querriegel zur Befestigung von Stropps",
+                "2": "Kloben (Rolle) an Festpunkt angeschlagen",
+                "3": "Kloben (Rolle) an Last angeschlagen"
+            },
+            "category": 7,
+            "correct": [
+                3
+            ],
+            "number": 2,
+            "question": "Was ist unter dem Begriff \u201ELose Rolle\u201C zu verstehen?"
+        },
+        {
+            "answers": {
+                "1": "Seilhaken nach dem Anschlagen der Last sichern",
+                "2": "Mit den H\u00E4nden nicht unter die Last greifen",
+                "3": "St\u00E4ndiges Beobachten der anzuhebenden Last"
+            },
+            "category": 7,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 3,
+            "question": "Was ist beim Anheben von Lasten zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Brechstange",
+                "2": "Hebe- und Pressger\u00E4t",
+                "3": "Hebekissen"
+            },
+            "category": 7,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 4,
+            "question": "\u00DCber welche Druck-, Kraft-, Hebezeuge verf\u00FCgt die Bergungsgruppe?"
+        },
+        {
+            "answers": {
+                "1": "Am Hebekissen",
+                "2": "Am Zugger\u00E4t",
+                "3": "Am Hebe- und Pressger\u00E4t"
+            },
+            "category": 7,
+            "correct": [
+                3
+            ],
+            "number": 5,
+            "question": "An welchem Druck-, Kraft-, Hebezeug kann ein Schnellstopp durchgef\u00FChrt werden?"
+        },
+        {
+            "answers": {
+                "1": "Am Brennschneidger\u00E4t",
+                "2": "Am Hebe- und Pressger\u00E4t",
+                "3": "Am Rettungsger\u00E4tesatz Schere/Spreizer"
+            },
+            "category": 7,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 6,
+            "question": "An welchem Ger\u00E4t befinden sich H\u00F6chstdruckschl\u00E4uche?"
+        },
+        {
+            "answers": {
+                "1": "Brechstange",
+                "2": "Zugger\u00E4t",
+                "3": "Hydraulischer Spreizer"
+            },
+            "category": 7,
+            "correct": [
+                1
+            ],
+            "number": 7,
+            "question": "Welches der genannten Ger\u00E4te ist kein Zugkraft-Hebezeug?"
+        },
+        {
+            "answers": {
+                "1": "15/16 kN",
+                "2": "20/25 kN",
+                "3": "60/70 kN"
+            },
+            "category": 7,
+            "correct": [
+                1
+            ],
+            "number": 8,
+            "question": "Welche Zugkraft hat das Zugger\u00E4t der Bergungsgruppe im direkten Zug?"
+        },
+        {
+            "answers": {
+                "1": "0 - 10 %",
+                "2": "25 - 50 %",
+                "3": "1"
+            },
+            "category": 7,
+            "correct": [
+                2
+            ],
+            "number": 9,
+            "question": "Bei welcher \u00DCberbelastung scheren die Scherstifte des Zugger\u00E4tes ab?"
+        },
+        {
+            "answers": {
+                "1": "Arbeiten mit der Seilwinde",
+                "2": "Anheben von Lasten bis 32 kN",
+                "3": "Arbeiten mit dem Zugger\u00E4t"
+            },
+            "category": 7,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 10,
+            "question": "Wof\u00FCr darf der Klappkloben  (32 kN) aus der Bergungsgruppe verwendet werden?"
+        },
+        {
+            "answers": {
+                "1": "Am R\u00FCckzughebel",
+                "2": "An den Klemmbacken",
+                "3": "Am Vorschubhebel"
+            },
+            "category": 7,
+            "correct": [
+                3
+            ],
+            "number": 11,
+            "question": "Wo sind die Scherstifte im Zugger\u00E4t eingebaut?"
+        },
+        {
+            "answers": {
+                "1": "Das Ger\u00E4t kann nicht repariert werden",
+                "2": "Die Scherstifte sind auszutauschen",
+                "3": "Das Ger\u00E4t an den Hersteller einschicken"
+            },
+            "category": 7,
+            "correct": [
+                2
+            ],
+            "number": 12,
+            "question": "Was ist nach dem Abscheren der Scherstifte beim Zugger\u00E4t zu tun?"
+        },
+        {
+            "answers": {
+                "1": "2 Hebekissen",
+                "2": "4 Hebekissen",
+                "3": "Beliebig viele"
+            },
+            "category": 7,
+            "correct": [
+                1
+            ],
+            "number": 13,
+            "question": "Wie viele Hebekissen des Hebekissensatzes der Bergungsgruppe d\u00FCrfen beim Anheben einer Last \u00FCbereinander gelegt werden?"
+        },
+        {
+            "answers": {
+                "1": "2/3 bzw. 3/4 der Kissenfl\u00E4che",
+                "2": "1/2 bzw. 1/3 der Kissenfl\u00E4che",
+                "3": "1/3 bzw. 4/5 der Kissenfl\u00E4che"
+            },
+            "category": 7,
+            "correct": [
+                1
+            ],
+            "number": 14,
+            "question": "Wie weit muss das Hebekissen mit seiner Fl\u00E4che mindestens unter die Last eingeschoben werden?"
+        },
+        {
+            "answers": {
+                "1": "Kfz-Reifenf\u00FCllanlage",
+                "2": "Kfz-Zweikreisbremssystem",
+                "3": "Druckluftflaschen 200/300 bar"
+            },
+            "category": 7,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 15,
+            "question": "Welche Druckluftquellen d\u00FCrfen mit dem Steuerorgan des Hebekissens verbunden werden?"
+        },
+        {
+            "answers": {
+                "1": "Es muss ein \u00D6labscheider verwendet werden",
+                "2": "Bei Betriebsdruck \u00FCber 12 bar ist ein Druckminderer zu verwenden",
+                "3": "Druckluftanlagen \u00FCber 12 bar d\u00FCrfen nicht verwendet werden"
+            },
+            "category": 7,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 16,
+            "question": "Was ist bei Verwendung einer Druckluftanlage zum Betrieb der Hebekissen zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Eine Person",
+                "2": "Nur F\u00FChrungskr\u00E4fte",
+                "3": "Keine Personen"
+            },
+            "category": 7,
+            "correct": [
+                3
+            ],
+            "number": 17,
+            "question": "Wie viele Personen d\u00FCrfen gleichzeitig unter einer schwebenden Last stehen?"
+        },
+        {
+            "answers": {
+                "1": "Last gegen Wegrutschen sichern",
+                "2": "Last bei fortschreitendem Hub laufend unterbauen",
+                "3": "Hebekissen nicht an scharfen Kanten ansetzen"
+            },
+            "category": 7,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 18,
+            "question": "Welche Sicherheitsma\u00DFnahmen sind beim Arbeiten mit Hebekissen zu ergreifen?"
+        },
+        {
+            "answers": {
+                "1": "16 kN",
+                "2": "30 kN",
+                "3": "50 kN"
+            },
+            "category": 7,
+            "correct": [
+                2
+            ],
+            "number": 19,
+            "question": "Wie gro\u00DF ist die Belastbarkeit des Kettenzuges?"
+        },
+        {
+            "answers": {
+                "1": "Das Zugger\u00E4t sollte im eingescherten Zustand verlastet werden. Nur so sind die Federelemente der Klemmbacken entlastet",
+                "2": "Das Zugger\u00E4t wird immer im ausgescherten Zustand verlastet. So l\u00E4sst sich das Drahtzugseil direkt in das Ger\u00E4t einf\u00FChren",
+                "3": "In das Zugger\u00E4t kann jedes beliebige Drahtseil eingef\u00FChrt werden, um damit Lasten zu ziehen oder zu ziehen"
+            },
+            "category": 7,
+            "correct": [
+                1
+            ],
+            "number": 20,
+            "question": "Welche Aussagen \u00FCber Zugger\u00E4te sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Beim Arbeiten mit der Brechstange habe ich direkten Einfluss auf die aufgebrachte Kraft",
+                "2": "Mit Hydraulik lassen sich sehr hohe Kr\u00E4fte realisieren",
+                "3": "Die Zahnstangenwinde arbeitet durch pneumatische Kraft"
+            },
+            "category": 7,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 21,
+            "question": "Welche Aussagen zum Thema \u201EKr\u00E4fte\u201C sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Oberfl\u00E4chenstr\u00F6mung",
+                "2": "In Richtung Quelle bezogene Ortsangabe",
+                "3": "In Richtung M\u00FCndung bezogene Ortsangabe"
+            },
+            "category": 8,
+            "correct": [
+                2
+            ],
+            "number": 1,
+            "question": "Was bedeutet der Begriff  \u201EOberstrom\u201C?"
+        },
+        {
+            "answers": {
+                "1": "Die Stromrichtung",
+                "2": "Der eigene Standort",
+                "3": "Die Himmelsrichtung"
+            },
+            "category": 8,
+            "correct": [
+                1
+            ],
+            "number": 2,
+            "question": "Was ist ausschlaggebend f\u00FCr die Bezeichnung \u201Elinkes Ufer\u201C und \u201Erechtes Ufer\u201C?"
+        },
+        {
+            "answers": {
+                "1": "\u00DCbergangsstelle kennzeichnen",
+                "2": "Beschaffenheit der \u00DCbergangstelle feststellen (Tiefen loten)",
+                "3": "Erkundende Helfer/innen sichern"
+            },
+            "category": 8,
+            "correct": [
+                3
+            ],
+            "number": 3,
+            "question": "Was ist beim Durchschreiten unbekannter Gew\u00E4sser als erste Ma\u00DFnahme durchzuf\u00FChren?"
+        },
+        {
+            "answers": {
+                "1": "Das Tragen von Lasten durch unbekanntes flie\u00DFendes Gew\u00E4sser ist verboten.",
+                "2": "Nach Oberstrom",
+                "3": "Nach Unterstrom"
+            },
+            "category": 8,
+            "correct": [
+                1
+            ],
+            "number": 4,
+            "question": "Zwei Helfer/innen haben den Auftrag, ein langes Rohr quer durch ein unbekanntes flie\u00DFendes Gew\u00E4sser zu tragen. Wie ist die Last zu tragen?"
+        },
+        {
+            "answers": {
+                "1": "Mit Schn\u00FCrbund",
+                "2": "Mit Schwimmhilfe",
+                "3": "Mit Sicherungsseil und THW-Rettungsweste"
+            },
+            "category": 8,
+            "correct": [
+                3
+            ],
+            "number": 5,
+            "question": "Wie muss ein/e am oder im Wasser arbeitende/r Helfer/in korrekt gesichert werden?"
+        },
+        {
+            "answers": {
+                "1": "Nur mit Sicherheitsseil",
+                "2": "Nur mit Rettungsweste",
+                "3": "Mit Sicherungsseil und THW-Rettungsweste"
+            },
+            "category": 8,
+            "correct": [
+                3
+            ],
+            "number": 6,
+            "question": "Wie sind an besonders gef\u00E4hr deten Einsatzpunkten am Wasser eingesetzte Helfer/innen zu sichern?"
+        },
+        {
+            "answers": {
+                "1": "Zu ca. 50 %",
+                "2": "Zu ca. 66 %",
+                "3": "Zu ca. 100 %"
+            },
+            "category": 8,
+            "correct": [
+                2
+            ],
+            "number": 7,
+            "question": "Wie weit soll ein Sandsack nach dem Verschlie\u00DFen gef\u00FCllt sein?"
+        },
+        {
+            "answers": {
+                "1": "Quer zur Wasserseite",
+                "2": "Mit der Einf\u00FCll\u00F6ffnung zur Wasserseite",
+                "3": "Mit dem Sackboden zur Wasserseite"
+            },
+            "category": 8,
+            "correct": [
+                3
+            ],
+            "number": 8,
+            "question": "Wie muss beim Anlegen von Sandsackd\u00E4mmen die unterste Lage Sands\u00E4cke (zugebunden) gepackt werden?"
+        },
+        {
+            "answers": {
+                "1": "75 %",
+                "2": "2/3 des Volumens",
+                "3": "Ca. 12 kg"
+            },
+            "category": 8,
+            "correct": [
+                3
+            ],
+            "number": 9,
+            "question": "Welche F\u00FCllmenge Sand ist bei einem Sandsack mit den Ma\u00DFen: H\u00F6he = 60 cm/Breite = 40 cm zu verwenden?"
+        },
+        {
+            "answers": {
+                "1": "Zur Deicherh\u00F6hung",
+                "2": "Zum Verf\u00FCllen von Deichsch\u00E4den",
+                "3": "Zum stoppen der Erosion durch Sickerwasser"
+            },
+            "category": 8,
+            "correct": [
+                3
+            ],
+            "number": 10,
+            "question": "Wozu dient eine Quellkade?"
+        },
+        {
+            "answers": {
+                "1": "Mit einer Arbeitsleine (lang) durch einfachen Ankerstich am Trageb\u00FCgel/Geh\u00E4use und einen Festpunkt an Land",
+                "2": "Schlauch und Stromkabel reichen als Sicherung aus",
+                "3": "Eine Sicherung ist nicht erforderlich"
+            },
+            "category": 8,
+            "correct": [
+                1
+            ],
+            "number": 11,
+            "question": "Wie sind Tauchpumpen im Betrieb zu sichern?"
+        },
+        {
+            "answers": {
+                "1": "Die Stra\u00DFe ist zu sperren",
+                "2": "Schl\u00E4uche sind immer an der gleichen Stelle zu \u00FCberqueren",
+                "3": "Es sind ausschlie\u00DFlich Schlauchbr\u00FCcken zu verwenden"
+            },
+            "category": 8,
+            "correct": [
+                3
+            ],
+            "number": 12,
+            "question": "Was ist bei der Verwendung eines Wasser f\u00FChrenden Schlauches \u00FCber die Stra\u00DFe zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "N\u00E4sseschutz, Gummistiefel",
+                "2": "THW-Rettungsweste,  Helm mit geschlossenem Kinnriemen (bei Bedarf)",
+                "3": "Schwimmweste, Rettungsleine"
+            },
+            "category": 8,
+            "correct": [
+                2
+            ],
+            "number": 13,
+            "question": "Welche Schutzbekleidung muss ein/e Helfer/in am oder auf dem Wasser nutzen?"
+        },
+        {
+            "answers": {
+                "1": "Anlegen von Rettungswesten",
+                "2": "Sichern von Treibgut",
+                "3": "Sicherstellen, dass die Stromversorgung abgeschaltet wurde"
+            },
+            "category": 8,
+            "correct": [
+                3
+            ],
+            "number": 14,
+            "question": "Welche Schutzma\u00DFnahme ist vor dem Betreten von \u00FCberfluteten R\u00E4umen als Erstes zu treffen?"
+        },
+        {
+            "answers": {
+                "1": "Auftriebsk\u00F6rper, Ausl\u00F6se-Automatik, Mundventil, Trompete",
+                "2": "Auftriebsk\u00F6rper, Ausl\u00F6se-Automatik, Mundventil, Signalpfeife",
+                "3": "Auftriebsk\u00F6rper, Ausl\u00F6se-Automatik, Luftpumpe, Signalpfeife"
+            },
+            "category": 8,
+            "correct": [
+                2
+            ],
+            "number": 15,
+            "question": "Was sind die Bestandteile der Rettungsweste im THW?"
+        },
+        {
+            "answers": {
+                "1": "Schwimmhilfen d\u00FCrfen bei Arbeiten am und auf dem Wasser getragen werden",
+                "2": "Schwimmhilfen sind ausschlie\u00DFlich f\u00FCr Passagiere von THW-Wasserfahrzeugen vorgesehen",
+                "3": "F\u00FCr leichte Personen (weniger als 40 kg) sind Westen mit entsprechender Gewichtszulassung erforderlich"
+            },
+            "category": 8,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 16,
+            "question": "Welche folgenden Aussagen bez\u00FCglich Schwimmhilfen im THW sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Die Sicherung durch Sicherheitsseile ist nur an stehenden Gew\u00E4ssern mit geringer Tiefe zugelassen",
+                "2": "Zur Erkundung unbekannter Gew\u00E4sser, ist die Seilsicherung nur in Kombination mit der THW-Schwimmhilfe zul\u00E4ssig",
+                "3": "Die THW-Rettungsweste ist \u00FCber der PSAgA zu tragen"
+            },
+            "category": 8,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 17,
+            "question": "Welche der folgenden Aussagen zur Sicherung durch Sicherheitsseile sind richtig?"
+        },
+        {
+            "answers": {
+                "1": "Wathosen d\u00FCrfen nicht in Wasserfahrzeugen getragen werden, sondern werden erst an der Einsatzstelle angezogen",
+                "2": "Die Wathose kann vor dem Ertrinken sch\u00FCtzen",
+                "3": "Flie\u00DFende Gew\u00E4sser sind nur mit der Wathose zu durchwaten"
+            },
+            "category": 8,
+            "correct": [
+                1
+            ],
+            "number": 18,
+            "question": "Welche der folgenden Aussagen zur Wathose sind richtig?"
+        },
+        {
+            "answers": {
+                "1": "Druckschlauch, Saugschlauch",
+                "2": "Armatur \u201EKnickschutzkr\u00FCmmer\u201C",
+                "3": "Armatur \u201EMehrzweckstrahlrohr\u201C"
+            },
+            "category": 8,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 19,
+            "question": "Was geh\u00F6rt im THW zur Pumpenzusatzausstattung?"
+        },
+        {
+            "answers": {
+                "1": "Kunststoffs\u00E4cke sind weniger rutschfest, als Sands\u00E4cke aus Naturfaser",
+                "2": "Sands\u00E4cke bestehen aus Jute oder Kunststoff",
+                "3": "Kunststoffsands\u00E4cke eignen sich vorwiegend f\u00FCr den Verbau binnenseitig"
+            },
+            "category": 8,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 20,
+            "question": "Welche der folgenden Aussagen zum Thema \u201ESandsackverbau\u201C sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Der Sandsackdamm wird von innen nach au\u00DFen im Ziegelverbund aufgebaut",
+                "2": "Kleinere Sch\u00E4den der Au\u00DFenb\u00F6schung, die genau lokalisiert werden, k\u00F6nnen mit Planenroller gesichert werden",
+                "3": "Faschinen sind B\u00FCndel aus Reisig. Sie werden zusammengezurrt und mit Bindedraht verr\u00F6delt"
+            },
+            "category": 8,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 21,
+            "question": "Welche der folgenden Aussagen zum Thema \u201EDeichsicherung\u201C sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Fl\u00FCssigkeit schnellstm\u00F6glich aufwischen",
+                "2": "Umstehende warnen",
+                "3": "Sofortige Meldung an die zust\u00E4ndige F\u00FChrungskraft"
+            },
+            "category": 9,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 1,
+            "question": "Welche Ma\u00DFnahmen sind beim Auslaufen unbekannter Fl\u00FCssigkeiten zu ergreifen?"
+        },
+        {
+            "answers": {
+                "1": "15,00 m",
+                "2": "20,00 m",
+                "3": "3,00 m"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 2,
+            "question": "Welcher Mindestabstand ist vom Punkt der Bodenber\u00FChrung einer abgerissenen Hochspannungsleitung zu halten?"
+        },
+        {
+            "answers": {
+                "1": "Windrichtung beachten",
+                "2": "Gaskonzentration messen",
+                "3": "Meldung an die F\u00FChrungskraft"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 3,
+            "question": "Was ist sofort zu tun, wenn ausstr\u00F6mendes Gas vermutet wird?"
+        },
+        {
+            "answers": {
+                "1": "Explosionsgefahr durch Gase",
+                "2": "Gefahr durch Atemgifte",
+                "3": "Gefahr durch Absturz"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 4,
+            "question": "Mit welchen Gefahren muss beim Einstieg in Tanks, Silos, Gruben oder Sch\u00E4chte gerechnet werden?"
+        },
+        {
+            "answers": {
+                "1": "Helm nicht in der Hand halten",
+                "2": "Bei Halt des Einsatzfahrzeuges dieses sofort verlassen",
+                "3": "Auf- und Absitzen nur auf Anweisung"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 5,
+            "question": "Wie haben Sie sich als Helfer/in vor, w\u00E4hrend und nach der Fahrt mit Einsatzfahrzeugen zu verhalten?"
+        },
+        {
+            "answers": {
+                "1": "Ob und wo Menschen in Gefahr sind",
+                "2": "Wie gro\u00DF der Schadensumfang ist",
+                "3": "Wo und wann ein schnelles Eindringen in die Schadensstelle m\u00F6glich ist"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 6,
+            "question": "Was soll bei der Erkundung festgestellt werden?"
+        },
+        {
+            "answers": {
+                "1": "Nur der/die Zugf\u00FChrer/in",
+                "2": "Nur der/die Gruppenf\u00FChrer/in",
+                "3": "Jede Einsatzkraft"
+            },
+            "category": 9,
+            "correct": [
+                3
+            ],
+            "number": 7,
+            "question": "Wer ist verpflichtet, zu melden?"
+        },
+        {
+            "answers": {
+                "1": "Vor dem Essen H\u00E4nde waschen",
+                "2": "Selbst mitgebrachtes Essen darf nicht verzehrt werden",
+                "3": "Essen und Trinken nur in daf\u00FCr ausgewiesenen Bereichen"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 8,
+            "question": "Was ist im Einsatz bei der Verpflegung unbedingt zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Es besteht kein solches Verbot",
+                "2": "Erh\u00F6hte Selbstgef\u00E4hrdung",
+                "3": "Die Einsatzf\u00E4higkeit wird verringert"
+            },
+            "category": 9,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 9,
+            "question": "Warum besteht an der Einsatzstelle Rauch- und Alkoholverbot?"
+        },
+        {
+            "answers": {
+                "1": "Warnweste",
+                "2": "Warnschilder (dreiseitig, faltbar)",
+                "3": "Leitkegel mit Warnblitzleuchte"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 10,
+            "question": "Welche Ausstattung dient der Eigensicherung auf Verkehrswegen?"
+        },
+        {
+            "answers": {
+                "1": "Arbeiten auf Bahnanlagen d\u00FCrfen erst nach Absprache mit dem Bahnpersonal durchgef\u00FChrt werden",
+                "2": "Auf die stromf\u00FChrenden Leitungen achten",
+                "3": "Den Weisungen des Bahnpersonals ist Folge zu leisten"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 11,
+            "question": "Was ist beim Einsatz auf Bahnanlagen zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Warnweste tragen",
+                "2": "Einsatzstelle nach Weisung absichern",
+                "3": "Auf den flie\u00DFenden Verkehr achten"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 12,
+            "question": "Was ist beim Einsatz im ungesicherten Verkehrsraum zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Gefahrstoffkennung nach GHS",
+                "2": "Gefahrenmerkschema THW",
+                "3": "Koordinatenangabe im THW"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 13,
+            "question": "Wozu geh\u00F6rt die Abk\u00FCrzung 5A B C D 5E?"
+        },
+        {
+            "answers": {
+                "1": "Brandklasse C",
+                "2": "Brandklasse B",
+                "3": "Brandklasse D"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 14,
+            "question": "Zu welcher Brandklasse geh\u00F6ren fl\u00FCssige oder fl\u00FCssig werdende Stoffe?"
+        },
+        {
+            "answers": {
+                "1": "ABC-Pulverl\u00F6scher",
+                "2": "Wasser",
+                "3": "Kohlendioxidl\u00F6scher"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 15,
+            "question": "Welches L\u00F6schmittel darf auf keinen Fall f\u00FCr brennende \u00D6le und Fette verwendet werden?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Polizist/in",
+                "2": "Mein/e direkte/r Vorgesetzte/r",
+                "3": "Der/die Leiter/in einer Regionalstelle"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 16,
+            "question": "Wer kann mir im Einsatz einen Befehl erteilen?"
+        },
+        {
+            "answers": {
+                "1": "Eigensicherung und Absicherung der Unfallstelle",
+                "2": "Verkehrskontrollen",
+                "3": "Geschwindigkeitsmessung"
+            },
+            "category": 9,
+            "correct": [
+                1
+            ],
+            "number": 17,
+            "question": "Welche Aufgaben darf das THW eigenst\u00E4ndig im Stra\u00DFenverkehr wahrnehmen?"
+        },
+        {
+            "answers": {
+                "1": "Warmen Pullover",
+                "2": "Warnweste",
+                "3": "Geh\u00F6rschutz"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 18,
+            "question": "Welche spezielle Schutzausstattung muss der/die Helfer/in zu seiner/ihrer pers\u00F6nlichen Schutzausstattung im Einsatz auf Verkehrswegen anlegen?"
+        },
+        {
+            "answers": {
+                "1": "Er/sie ist auf die Versorgungsangebote der Einsatznachsorge hinzuweisen. Unterst\u00FCtzung, wie z. B. das Anbieten eines Einsatznachsorgegespr\u00E4ches ist zu veranlassen.",
+                "2": "Man sollte ihn/sie alleine mit seinen/ihren m\u00F6glichen Problemen lassen",
+                "3": "Alle Helfer/innen der Gruppe informieren"
+            },
+            "category": 9,
+            "correct": [
+                1
+            ],
+            "number": 19,
+            "question": "Was ist mit einem/r Helfer/in zu tun, der/die infolge des Dienstgeschehens akute Belastungsreaktionen zeigt?"
+        },
+        {
+            "answers": {
+                "1": "Jede/r Helfer/in",
+                "2": "Der/die Vorgesetzte",
+                "3": "Der/die Leiter/in einer Regionalstelle"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 20,
+            "question": "Wer kann das Einsatznachsorgeteam (ENT) anfordern?"
+        },
+        {
+            "answers": {
+                "1": "Nur der/die Auftraggeber/in",
+                "2": "Nur der/die Einheitsf\u00FChrer/in",
+                "3": "alle Einsatzbeteiligten"
+            },
+            "category": 9,
+            "correct": [
+                3
+            ],
+            "number": 21,
+            "question": "Wer muss \u00FCber die Gefahren, die aus einem Einsatz entstehen k\u00F6nnen, informiert sein?"
+        },
+        {
+            "answers": {
+                "1": "Nicht beachten",
+                "2": "Kennzeichnen, sichern und \u2013 wenn m\u00F6glich \u2013 sofort beseitigen",
+                "3": "Dem/der unmittelbaren Vorgesetzten melden"
+            },
+            "category": 9,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 22,
+            "question": "Wie m\u00FCssen akute Gefahrenquellen, z. B. eine Stolperfalle, behandelt werden?"
+        },
+        {
+            "answers": {
+                "1": "Pers\u00F6nliche Schutzbekleidung vorschriftsm\u00E4\u00DFig tragen",
+                "2": "Unfallverh\u00FCtungsvorschriften beachten",
+                "3": "Nach eigenen Vorstellungen handeln"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2
+            ],
+            "number": 23,
+            "question": "Wie kann sich ein/e Helfer/in vor Gefahrenquellen im Einsatz sch\u00FCtzen?"
+        },
+        {
+            "answers": {
+                "1": "Zur Unterbringung nicht einsatzbef\u00E4higter Helfer/innen",
+                "2": "Sammelpunkt von Einheiten",
+                "3": "Bereich f\u00FCr Medienvertreter"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 24,
+            "question": "Wozu dient ein Bereitstellungsraum?"
+        },
+        {
+            "answers": {
+                "1": "Wenn ich Drogen oder Alkohol konsumiert habe",
+                "2": "Wenn ich Medikamente eingenommen habe, die mich in meiner Wahrnehmung und/oder Handlungsf\u00E4higkeit einschr\u00E4nken k\u00F6nnten",
+                "3": "Wenn eine Arbeitsunf\u00E4higkeit durch einen Arzt oder eine \u00C4rztin attestiert wurde"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 25,
+            "question": "Wann muss ich meine Dienstunf\u00E4higkeit melden?"
+        },
+        {
+            "answers": {
+                "1": "Jede/r Helfer/in",
+                "2": "Nur der/die Einsatzleiter/in",
+                "3": "Der/die Gruppenf\u00FChrer/in"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 26,
+            "question": "Wer darf Medienvertreter/innen gegen\u00FCber Aussagen zum Einsatz machen?"
+        },
+        {
+            "answers": {
+                "1": "Funktion des/der Einsatzleiters/in",
+                "2": "Einrichten und Betreiben des Leitungs- und Koordinierungsstabes (LuK-Stab)",
+                "3": "Funktion des/der Pressesprechers/in"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 27,
+            "question": "Welche Aufgaben haben Regionalstellen des THW im Einsatzfall (Einbindung von mehr als einem Ortsverband)?"
+        },
+        {
+            "answers": {
+                "1": "Der/die Ortsbeauftragte",
+                "2": "Der/die Helfer/in selbst",
+                "3": "Der/die Landessprecher/in"
+            },
+            "category": 9,
+            "correct": [
+                1
+            ],
+            "number": 28,
+            "question": "Wer darf eine/n Helfer/Helferin in den Einsatz entsenden?"
+        },
+        {
+            "answers": {
+                "1": "Im Einsatz nicht transportf\u00E4hig",
+                "2": "Externe Notfalltruppe",
+                "3": "Einsatznachsorgeteam"
+            },
+            "category": 9,
+            "correct": [
+                3
+            ],
+            "number": 29,
+            "question": "Wof\u00FCr steht ENT?"
+        },
+        {
+            "answers": {
+                "1": "... eine krankhafte Reaktion des K\u00F6rpers",
+                "2": "... eine normale Reaktion auf ein au\u00DFergew\u00F6hnliches Ereignis",
+                "3": "... eine au\u00DFergew\u00F6hnliche Reaktion auf ein normales Ereignis"
+            },
+            "category": 9,
+            "correct": [
+                2
+            ],
+            "number": 30,
+            "question": "Stressbelastungsreaktionen sind\u2026"
+        },
+        {
+            "answers": {
+                "1": "Ich selbst",
+                "2": "Meine F\u00FChrungskraft",
+                "3": "Das ENT"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 31,
+            "question": "Wer kann zu erfolgreichem Stressmanagement beitragen?"
+        },
+        {
+            "answers": {
+                "1": "Mit anderen dar\u00FCber sprechen",
+                "2": "\u00DCber den Einsatz gr\u00FCbeln",
+                "3": "Dinge tun, die mir Spa\u00DF machen (malen, schreiben, Musik h\u00F6ren etc.)"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 32,
+            "question": "Welche M\u00F6glichkeiten gibt es, nach einem belastenden Einsatz Stress abzubauen?"
+        },
+        {
+            "answers": {
+                "1": "Ehrenamtliche und hauptamtliche THW-Kr\u00E4fte",
+                "2": "Nur ehrenamtliche THW-Einsatzkr\u00E4fte",
+                "3": "Nur hauptamtliche THW-Kr\u00E4fte"
+            },
+            "category": 9,
+            "correct": [
+                1
+            ],
+            "number": 33,
+            "question": "Wen unterst\u00FCtzt das ENT?"
+        },
+        {
+            "answers": {
+                "1": "Schwei\u00DFausbr\u00FCche, Tunnelblick, Wut",
+                "2": "Hysterie, Angst, Konzentrationsst\u00F6rungen",
+                "3": "Erbrechen, Ged\u00E4chtnisausf\u00E4lle, \u00DCberaktivit\u00E4t"
+            },
+            "category": 9,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 34,
+            "question": "Was sind typische Stressreaktionen?"
+        },
+        {
+            "answers": {
+                "1": "Mit der Krankentrage",
+                "2": "Mit behelfsm\u00E4\u00DFigen Tragen",
+                "3": "Mit zwei Einsatzkr\u00E4ften auch ohne Hilfsmittel"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 1,
+            "question": "Wie k\u00F6nnen verletzte Personen transportiert werden?"
+        },
+        {
+            "answers": {
+                "1": "St\u00E4ndiges Beobachten der Schadenslage und des Umfeldes",
+                "2": "St\u00E4ndige Meldungen (beispielsweise des Erkundungstrupps) an den/die Vorgesetzte/n \u2013 Lage\u00E4nderungen sofort melden",
+                "3": "Befragen von Personen"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 2,
+            "question": "Was geh\u00F6rt unter anderem zu einer Erkundung?"
+        },
+        {
+            "answers": {
+                "1": "Schauen \u2013 Sondieren \u2013 Selektieren \u2013 Verteilen \u2013 Retten",
+                "2": "Erkunden \u2013 Absuchen \u2013 Durchforschen \u2013 Eindringen \u2013 Ber\u00E4umen",
+                "3": "Erkennen \u2013 Bewerten \u2013 Entscheiden \u2013 Handeln \u2013 Evaluieren"
+            },
+            "category": 10,
+            "correct": [
+                2
+            ],
+            "number": 3,
+            "question": "Was sind die 5 Phasen der Rettung/Bergung?"
+        },
+        {
+            "answers": {
+                "1": "1. Sachg\u00FCter \u2013 2. Menschenleben \u2013 3. Tiere",
+                "2": "1. Menschenleben \u2013 2. Sachg\u00FCter \u2013 3. Tiere",
+                "3": "1. Menschenleben \u2013 2. Tiere \u2013 3. Sachg\u00FCter"
+            },
+            "category": 10,
+            "correct": [
+                3
+            ],
+            "number": 4,
+            "question": "In welcher Reihenfolge werden die nachfolgenden Aufgaben im Einsatz abgearbeitet?"
+        },
+        {
+            "answers": {
+                "1": "Nachrutschen von Tr\u00FCmmern ist zu verhindern",
+                "2": "Die verletzte Person ist warm zu halten",
+                "3": "Ein/e Ansprechpartner/in sollte bei der verletzten Person bleiben"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 5,
+            "question": "Was ist beim Retten/Bergen versch\u00FCtteter Personen zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Sie sagen etwas \u00FCber die Einsatzm\u00F6glichkeiten aus",
+                "2": "Sie sagen etwas \u00FCber den Inhalt aus",
+                "3": "Sie kennzeichnen die Verwendungsdauer"
+            },
+            "category": 10,
+            "correct": [
+                1
+            ],
+            "number": 6,
+            "question": "Welche Bedeutung haben die Brandklassen bei Feuerl\u00F6schern?"
+        },
+        {
+            "answers": {
+                "1": "Hiermit k\u00F6nnen feste oder glutbildende Stoffe gel\u00F6scht werden",
+                "2": "Hiermit k\u00F6nnen gasf\u00F6rmige Stoffe gel\u00F6scht werden",
+                "3": "Hiermit k\u00F6nnen fl\u00FCssige Stoffe gel\u00F6scht werden."
+            },
+            "category": 10,
+            "correct": [
+                1
+            ],
+            "number": 7,
+            "question": "Was verbirgt sich hinter der Kennzeichnung eines Handfeuerl\u00F6schers f\u00FCr die Brandklasse A?"
+        },
+        {
+            "answers": {
+                "1": "ABC-Pulverl\u00F6scher",
+                "2": "Wasser",
+                "3": "Trockener Sand"
+            },
+            "category": 10,
+            "correct": [
+                3
+            ],
+            "number": 8,
+            "question": "Mit welchem der genannten L\u00F6schmittel ist ein Metallbrand (z. B. Aluminium, Magnesium) zu l\u00F6schen?"
+        },
+        {
+            "answers": {
+                "1": "Ca. 1,00 m",
+                "2": "Ca. 3,00 m",
+                "3": "Ca. 5,00 m"
+            },
+            "category": 10,
+            "correct": [
+                2
+            ],
+            "number": 9,
+            "question": "In welchem Abstand ist bei kleinen Fl\u00FCssigkeitsbr\u00E4nden der Handfeuerl\u00F6scher zur Brandbek\u00E4mpfung anzusetzen?"
+        },
+        {
+            "answers": {
+                "1": "Mit der Windrichtung",
+                "2": "Entgegen der Windrichtung",
+                "3": "Von links nach rechts"
+            },
+            "category": 10,
+            "correct": [
+                1
+            ],
+            "number": 10,
+            "question": "Aus welcher Richtung sollen allgemein Br\u00E4nde bek\u00E4mpft werden?"
+        },
+        {
+            "answers": {
+                "1": "\u00D6lstand auf Maximum",
+                "2": "Kraftstoffbeh\u00E4lter gef\u00FCllt",
+                "3": "H\u00F6chstdruckschl\u00E4uche knick- und drallfrei ausgelegt"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 11,
+            "question": "Was ist vor der Inbetriebnahme des hydraulischen Rettungssatzes zu \u00FCberpr\u00FCfen?"
+        },
+        {
+            "answers": {
+                "1": "Spreizarme d\u00FCrfen nicht ganz geschlossen sein",
+                "2": "Spreizarme m\u00FCssen ganz geschlossen sein",
+                "3": "Spreizarme sind abzumontieren"
+            },
+            "category": 10,
+            "correct": [
+                1
+            ],
+            "number": 12,
+            "question": "Worauf ist bei der Au\u00DFerbetriebnahme des hydraulischen Spreizers zu achten?"
+        },
+        {
+            "answers": {
+                "1": "Schutzhelm mit Vollgesichtsschutz",
+                "2": "Lederschutzhandschuhe (Stulpe lang)",
+                "3": "Vollst\u00E4ndige Einsatzbekleidung"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 13,
+            "question": "Welche Schutzausstattung muss beim Arbeiten mit dem hydraulischen Rettungssatz getragen werden?"
+        },
+        {
+            "answers": {
+                "1": "Als Zugger\u00E4t (mit den dazugeh\u00F6rigen Ketten)",
+                "2": "Zum Quetschen von Rohren",
+                "3": "Zum kurzzeitigen Anheben von Lasten"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 14,
+            "question": "Wozu kann der hydraulische Spreizer verwendet werden?"
+        },
+        {
+            "answers": {
+                "1": "Gebrauch der pers\u00F6nlichen und zus\u00E4tzlichen Schutzaustattung",
+                "2": "Keine Personen im Gefahrenbereich",
+                "3": "Ger\u00E4t nur f\u00FCr vorgesehene Materialien verwenden"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 15,
+            "question": "Was ist beim Arbeiten mit der  hydraulischen Schere zu beachten?"
+        },
+        {
+            "answers": {
+                "1": "Brennbarer Stoff",
+                "2": "Z\u00FCndquelle",
+                "3": "Sauerstoff"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 16,
+            "question": "Was sind Voraussetzungen f\u00FCr jede Verbrennung?"
+        },
+        {
+            "answers": {
+                "1": "Brandwunden auswaschen und Brandblasen \u00F6ffnen",
+                "2": "F\u00FCr schnelle \u00E4rztliche Hilfe sorgen",
+                "3": "Brandwunden keimfrei bedecken"
+            },
+            "category": 10,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 17,
+            "question": "Wie hat sich ein/e Ersthelfer/in bei Brandverletzungen zu verhalten?"
+        },
+        {
+            "answers": {
+                "1": "Ich l\u00F6sche mit Wasser",
+                "2": "Ich alarmiere die Feuerwehr bzw. verst\u00E4ndige die Zentrale",
+                "3": "Ich hole einen geeigneten Feuerl\u00F6scher (Brandklasse B) und bek\u00E4mpfe den Brand durch kurze L\u00F6schmittelst\u00F6\u00DFe von unten her"
+            },
+            "category": 10,
+            "correct": [
+                2,
+                3
+            ],
+            "number": 18,
+            "question": "Wie verhalten Sie sich bei einem Benzinbrand?"
+        },
+        {
+            "answers": {
+                "1": "Werden im Verlauf der Bergung Gefahren entdeckt, sind zuerst die Gefahren zu beseitigen. Nach Beseitigung der Gefahren kann die Bergung fortgesetzt werden",
+                "2": "Beim Orten von vermissten Personen m\u00FCssen Ger\u00E4te, Generatoren, Fahrzeuge usw. nicht abgestellt werden",
+                "3": "Nach M\u00F6glichkeit sollten Mauerdurchbr\u00FCche immer dachf\u00F6rmig ausgef\u00FChrt werden"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                3
+            ],
+            "number": 19,
+            "question": "Welche der folgenden Aussagen zum Thema \u201ERettung und Bergung\u201C sind korrekt?"
+        },
+        {
+            "answers": {
+                "1": "Ruf \u2013 Horch \u2013 Klopf \u2013 Methode",
+                "2": "Biologisch",
+                "3": "Technisch"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 20,
+            "question": "Mit welchen Ma\u00DFnahmen kann eine Person geortet werden?"
+        },
+        {
+            "answers": {
+                "1": "Auf die Grundgefahren achten",
+                "2": "Immer das 4-Augen-Prinzip anwenden",
+                "3": "Sensibles Begehen der Tr\u00FCmmer"
+            },
+            "category": 10,
+            "correct": [
+                1,
+                2,
+                3
+            ],
+            "number": 21,
+            "question": "Welche Grundlagen m\u00FCssen Einsatzkr\u00E4fte im Einsatzfall beachten?"
+        },
+        {
+            "answers": {
+                "1": "Erst alle Gefahren beseitigen",
+                "2": "Personenrettung \u00FCber alles",
+                "3": "Von leicht zu schwer"
+            },
+            "category": 10,
+            "correct": [
+                3
+            ],
+            "number": 22,
+            "question": "Nach welchem Grundsatz werden Eins\u00E4tze abgearbeitet?"
+        }
+    ],
+    "version": 20221118
+}
