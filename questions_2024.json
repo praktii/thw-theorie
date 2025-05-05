@@ -34,7 +34,7 @@
     "questions": [
         {
             "answers": {
-                "1": "Grundgesetz",
+                "1": "B\u00FCrgerliches Gesetzbuch (BGB)",
                 "2": "Zivilschutz- und Katastrophenhilfegesetz (ZSKG)",
                 "3": "THW-Gesetz"
             },
@@ -658,7 +658,7 @@
             "answers": {
                 "1": "Bestandene Grundausbildungspr\u00FCfung, g\u00FCltige Erste-Hilfe-Ausbildung",
                 "2": "Mitf\u00FChren eines g\u00FCltigen Impfpasses, Bescheinigung der Einsatzbereitschaft durch den/die Leiter/in der Regionalstelle",
-                "3": "Gesundheitliche, Eingangsuntersuchung, g\u00FCltiger Impfstatus"
+                "3": "Gesundheitliche Eingangsuntersuchung, g\u00FCltiger Impfstatus"
             },
             "category": 1,
             "correct": [
@@ -666,7 +666,7 @@
                 3
             ],
             "number": 47,
-            "question": "Was sind die Voraussetzungen, um an einem Einsatz teilnehmen zu k\u00F6nnen?"
+            "question": "Welche Kriterien m\u00FCssen erf\u00FClt sein, um die Einsatzbef\u00E4higung zu erlangen?"
         },
         {
             "answers": {
@@ -684,9 +684,9 @@
         },
         {
             "answers": {
-                "1": "Anzahl der Helfer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der F\u00FChrer/innen; Gesamtzahl der Helfer/innen in der Einheit",
-                "2": "Anzahl der F\u00FChrer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Gesamtzahl der Helfer/innen der Einheit",
-                "3": "Gesamtzahl der Helfer/innen der Einheit; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Anzahl der F\u00FChrer/innen"
+                "1": "Anzahl der Helfer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der Einheitsf\u00FChrer/innen; Gesamtzahl der Helfer/innen in der Einheit",
+                "2": "Anzahl der Einheitsf\u00FChrer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Gesamtzahl der Helfer/innen der Einheit",
+                "3": "Gesamtzahl der Helfer/innen der Einheit; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Anzahl der Einheitsf\u00FChrer/innen"
             },
             "category": 1,
             "correct": [
@@ -721,7 +721,7 @@
                 1
             ],
             "number": 51,
-            "question": "Ab weil viel Jahren k\u00F6nnen Kinder und Jugendliche als Junghelfer/in im THW mitwirken?"
+            "question": "Ab wie viel Jahren k\u00F6nnen Kinder und Jugendliche als Junghelfer/in im THW mitwirken?"
         },
         {
             "answers": {
@@ -793,7 +793,7 @@
         {
             "answers": {
                 "1": "Rettung und Bergung; Notinstandsetzung; Notversorgung; F\u00FChrung und Logistik",
-                "2": "Medizinische Hilfeleistung; Psycho-soziale Notfallversorgung; Verpflegung von Einsatz\u00ADkr\u00E4ften; Personenschutz",
+                "2": "Medizinische Hilfeleistung; Psycho-soziale Notfallversorgung; Verpflegung von Einsatzkr\u00E4ften; Personenschutz",
                 "3": "Fahrzeugreparaturen; Rettung und Bergung; Medizinische Hilfeleistung; Koordination"
             },
             "category": 1,
