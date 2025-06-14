@@ -1032,7 +1032,7 @@
                 1
             ],
             "number": 10,
-            "question": "Wie werden kennzeichnungspflichtige Gefahrguttransporte unter anderem gekennzeichnet?"
+            "question": "Wie werden kennzeichnungspflichtige Gefahrguttransporte (zu Land) unter anderem gekennzeichnet?"
         },
         {
             "answers": {
@@ -1331,7 +1331,7 @@
                 2
             ],
             "number": 32,
-            "question": "Welche Bef\u00F6rderungspapiere sind auf Anforderung durch den Fahrer eines GefahrguttransportLKWs vorzulegen?"
+            "question": "Welche Bef\u00F6rderungspapiere sind auf Anforderung durch den Fahrer eines Gefahrguttransport-LKWs vorzulegen?"
         },
         {
             "answers": {
@@ -1378,7 +1378,7 @@
         {
             "answers": {
                 "1": "Im Gefahrenbereich nicht rauchen, essen und trinken",
-                "2": "Dekontamination, Waschen, Toilettengang, Ruhen usw. ausschlie\u00DFlich in angeordneten Bereichen des Absperrbereiches",
+                "2": "Dekontamination, Waschen, Toilettengang, Ruhen usw. ausschlie\u00DFlich in angeordneten Bereichen",
                 "3": "Kontaminierte Einsatzbekleidung zum Essen, Trinken, Rauchen, Toilettengang ablegen und mindestens H\u00E4nde waschen"
             },
             "category": 2,
@@ -1619,8 +1619,8 @@
         },
         {
             "answers": {
-                "1": "Arbeitsleinen d\u00FCrfen weder zur Sicherung noch zur Rettung von Personen eingesetzt werden",
-                "2": "Arbeitsleinen d\u00FCrfen zur Sicherung und Rettung von Personen eingesetzt werden",
+                "1": "Arbeitsleinen d\u00FCrfen weder zur Absturzsicherung noch zur Rettung von Personen eingesetzt werden",
+                "2": "Arbeitsleinen d\u00FCrfen zur Absturzsicherung und Rettung von Personen eingesetzt werden",
                 "3": "Arbeitsleinen sind Sicherheitsseile"
             },
             "category": 3,
