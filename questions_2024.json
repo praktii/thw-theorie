@@ -1765,7 +1765,7 @@
                 3
             ],
             "number": 4,
-            "question": "Wozu d\u00FCrfen THW-Kombinationsleitern eingesetzt werden?"
+            "question": "Wozu d\u00FCrfen Kombinationsleitern eingesetzt werden?"
         },
         {
             "answers": {
@@ -1857,7 +1857,7 @@
                 3
             ],
             "number": 6,
-            "question": "Mit welchem Betriebsstoff wird der Motor des mobilen Stromerzeugers betrieben?"
+            "question": "Mit welchem Betriebsstoff wird der Motor des tragbaren Stromerzeugers 8kVA betrieben?"
         },
         {
             "answers": {
@@ -2458,7 +2458,7 @@
             "answers": {
                 "1": "0 - 10 %",
                 "2": "25 - 50 %",
-                "3": "1"
+                "3": "100 %"
             },
             "category": 7,
             "correct": [
@@ -3297,9 +3297,9 @@
         },
         {
             "answers": {
-                "1": "... eine krankhafte Reaktion des K\u00F6rpers",
-                "2": "... eine normale Reaktion auf ein au\u00DFergew\u00F6hnliches Ereignis",
-                "3": "... eine au\u00DFergew\u00F6hnliche Reaktion auf ein normales Ereignis"
+                "1": "\u2026 eine krankhafte Reaktion des K\u00F6rpers",
+                "2": "\u2026 eine normale Reaktion auf ein au\u00DFergew\u00F6hnliches Ereignis",
+                "3": "\u2026 eine au\u00DFergew\u00F6hnliche Reaktion auf ein normales Ereignis"
             },
             "category": 9,
             "correct": [
@@ -3572,7 +3572,7 @@
                 3
             ],
             "number": 15,
-            "question": "Was ist beim Arbeiten mit der  hydraulischen Schere zu beachten?"
+            "question": "Was ist beim Arbeiten mit der hydraulischen Schere zu beachten?"
         },
         {
             "answers": {
@@ -3606,7 +3606,7 @@
         {
             "answers": {
                 "1": "Ich l\u00F6sche mit Wasser",
-                "2": "Ich alarmiere die Feuerwehr bzw. verst\u00E4ndige die Zentrale",
+                "2": "Ich alarmiere die Feuerwehr ggf.. verst\u00E4ndige ich die Pforte, Kopfstelle, etc.",
                 "3": "Ich hole einen geeigneten Feuerl\u00F6scher (Brandklasse B) und bek\u00E4mpfe den Brand durch kurze L\u00F6schmittelst\u00F6\u00DFe von unten her"
             },
             "category": 10,
