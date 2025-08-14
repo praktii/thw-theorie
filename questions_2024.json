@@ -34,7 +34,7 @@
     "questions": [
         {
             "answers": {
-                "1": "Grundgesetz",
+                "1": "B\u00FCrgerliches Gesetzbuch (BGB)",
                 "2": "Zivilschutz- und Katastrophenhilfegesetz (ZSKG)",
                 "3": "THW-Gesetz"
             },
@@ -658,7 +658,7 @@
             "answers": {
                 "1": "Bestandene Grundausbildungspr\u00FCfung, g\u00FCltige Erste-Hilfe-Ausbildung",
                 "2": "Mitf\u00FChren eines g\u00FCltigen Impfpasses, Bescheinigung der Einsatzbereitschaft durch den/die Leiter/in der Regionalstelle",
-                "3": "Gesundheitliche, Eingangsuntersuchung, g\u00FCltiger Impfstatus"
+                "3": "Gesundheitliche Eingangsuntersuchung, g\u00FCltiger Impfstatus"
             },
             "category": 1,
             "correct": [
@@ -666,7 +666,7 @@
                 3
             ],
             "number": 47,
-            "question": "Was sind die Voraussetzungen, um an einem Einsatz teilnehmen zu k\u00F6nnen?"
+            "question": "Welche Kriterien m\u00FCssen erf\u00FClt sein, um die Einsatzbef\u00E4higung zu erlangen?"
         },
         {
             "answers": {
@@ -684,9 +684,9 @@
         },
         {
             "answers": {
-                "1": "Anzahl der Helfer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der F\u00FChrer/innen; Gesamtzahl der Helfer/innen in der Einheit",
-                "2": "Anzahl der F\u00FChrer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Gesamtzahl der Helfer/innen der Einheit",
-                "3": "Gesamtzahl der Helfer/innen der Einheit; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Anzahl der F\u00FChrer/innen"
+                "1": "Anzahl der Helfer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der Einheitsf\u00FChrer/innen; Gesamtzahl der Helfer/innen in der Einheit",
+                "2": "Anzahl der Einheitsf\u00FChrer/innen; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Gesamtzahl der Helfer/innen der Einheit",
+                "3": "Gesamtzahl der Helfer/innen der Einheit; Anzahl der Unterf\u00FChrer/innen; Anzahl der Helfer/innen; Anzahl der Einheitsf\u00FChrer/innen"
             },
             "category": 1,
             "correct": [
@@ -721,7 +721,7 @@
                 1
             ],
             "number": 51,
-            "question": "Ab weil viel Jahren k\u00F6nnen Kinder und Jugendliche als Junghelfer/in im THW mitwirken?"
+            "question": "Ab wie viel Jahren k\u00F6nnen Kinder und Jugendliche als Junghelfer/in im THW mitwirken?"
         },
         {
             "answers": {
@@ -793,7 +793,7 @@
         {
             "answers": {
                 "1": "Rettung und Bergung; Notinstandsetzung; Notversorgung; F\u00FChrung und Logistik",
-                "2": "Medizinische Hilfeleistung; Psycho-soziale Notfallversorgung; Verpflegung von Einsatz\u00ADkr\u00E4ften; Personenschutz",
+                "2": "Medizinische Hilfeleistung; Psycho-soziale Notfallversorgung; Verpflegung von Einsatzkr\u00E4ften; Personenschutz",
                 "3": "Fahrzeugreparaturen; Rettung und Bergung; Medizinische Hilfeleistung; Koordination"
             },
             "category": 1,
@@ -1032,7 +1032,7 @@
                 1
             ],
             "number": 10,
-            "question": "Wie werden kennzeichnungspflichtige Gefahrguttransporte unter anderem gekennzeichnet?"
+            "question": "Wie werden kennzeichnungspflichtige Gefahrguttransporte (zu Land) unter anderem gekennzeichnet?"
         },
         {
             "answers": {
@@ -1331,7 +1331,7 @@
                 2
             ],
             "number": 32,
-            "question": "Welche Bef\u00F6rderungspapiere sind auf Anforderung durch den Fahrer eines GefahrguttransportLKWs vorzulegen?"
+            "question": "Welche Bef\u00F6rderungspapiere sind auf Anforderung durch den Fahrer eines Gefahrguttransport-LKWs vorzulegen?"
         },
         {
             "answers": {
@@ -1378,7 +1378,7 @@
         {
             "answers": {
                 "1": "Im Gefahrenbereich nicht rauchen, essen und trinken",
-                "2": "Dekontamination, Waschen, Toilettengang, Ruhen usw. ausschlie\u00DFlich in angeordneten Bereichen des Absperrbereiches",
+                "2": "Dekontamination, Waschen, Toilettengang, Ruhen usw. ausschlie\u00DFlich in angeordneten Bereichen",
                 "3": "Kontaminierte Einsatzbekleidung zum Essen, Trinken, Rauchen, Toilettengang ablegen und mindestens H\u00E4nde waschen"
             },
             "category": 2,
@@ -1619,8 +1619,8 @@
         },
         {
             "answers": {
-                "1": "Arbeitsleinen d\u00FCrfen weder zur Sicherung noch zur Rettung von Personen eingesetzt werden",
-                "2": "Arbeitsleinen d\u00FCrfen zur Sicherung und Rettung von Personen eingesetzt werden",
+                "1": "Arbeitsleinen d\u00FCrfen weder zur Absturzsicherung noch zur Rettung von Personen eingesetzt werden",
+                "2": "Arbeitsleinen d\u00FCrfen zur Absturzsicherung und Rettung von Personen eingesetzt werden",
                 "3": "Arbeitsleinen sind Sicherheitsseile"
             },
             "category": 3,
@@ -1765,7 +1765,7 @@
                 3
             ],
             "number": 4,
-            "question": "Wozu d\u00FCrfen THW-Kombinationsleitern eingesetzt werden?"
+            "question": "Wozu d\u00FCrfen Kombinationsleitern eingesetzt werden?"
         },
         {
             "answers": {
@@ -1857,7 +1857,7 @@
                 3
             ],
             "number": 6,
-            "question": "Mit welchem Betriebsstoff wird der Motor des mobilen Stromerzeugers betrieben?"
+            "question": "Mit welchem Betriebsstoff wird der Motor des tragbaren Stromerzeugers 8kVA betrieben?"
         },
         {
             "answers": {
@@ -2458,7 +2458,7 @@
             "answers": {
                 "1": "0 - 10 %",
                 "2": "25 - 50 %",
-                "3": "1"
+                "3": "100 %"
             },
             "category": 7,
             "correct": [
@@ -3297,9 +3297,9 @@
         },
         {
             "answers": {
-                "1": "... eine krankhafte Reaktion des K\u00F6rpers",
-                "2": "... eine normale Reaktion auf ein au\u00DFergew\u00F6hnliches Ereignis",
-                "3": "... eine au\u00DFergew\u00F6hnliche Reaktion auf ein normales Ereignis"
+                "1": "\u2026 eine krankhafte Reaktion des K\u00F6rpers",
+                "2": "\u2026 eine normale Reaktion auf ein au\u00DFergew\u00F6hnliches Ereignis",
+                "3": "\u2026 eine au\u00DFergew\u00F6hnliche Reaktion auf ein normales Ereignis"
             },
             "category": 9,
             "correct": [
@@ -3572,7 +3572,7 @@
                 3
             ],
             "number": 15,
-            "question": "Was ist beim Arbeiten mit der  hydraulischen Schere zu beachten?"
+            "question": "Was ist beim Arbeiten mit der hydraulischen Schere zu beachten?"
         },
         {
             "answers": {
@@ -3606,7 +3606,7 @@
         {
             "answers": {
                 "1": "Ich l\u00F6sche mit Wasser",
-                "2": "Ich alarmiere die Feuerwehr bzw. verst\u00E4ndige die Zentrale",
+                "2": "Ich alarmiere die Feuerwehr ggf.. verst\u00E4ndige ich die Pforte, Kopfstelle, etc.",
                 "3": "Ich hole einen geeigneten Feuerl\u00F6scher (Brandklasse B) und bek\u00E4mpfe den Brand durch kurze L\u00F6schmittelst\u00F6\u00DFe von unten her"
             },
             "category": 10,
